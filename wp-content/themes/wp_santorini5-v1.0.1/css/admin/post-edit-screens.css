@@ -1,0 +1,4 @@
+.amenities .inside { padding: 0; }
+.amenities .inside p { margin: 0; padding: 10px 0;}
+.amenities .inside p:hover { background: #f6f6f6; cursor:pointer; }
+.amenities input { width:auto; margin-bottom:0; }

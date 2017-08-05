@@ -1,0 +1,1944 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2016-07-22 16:38+0100\n"
+"PO-Revision-Date: 2016-07-25 11:50+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../ultimate-form-builder.php:194 ../inc/views/backend/form-list.php:14
+msgid "Forms"
+msgstr "Formulários"
+
+#: ../ultimate-form-builder.php:195
+msgid "Edit Form"
+msgstr "Editar Formulário"
+
+#: ../ultimate-form-builder.php:195
+msgid "All Forms"
+msgstr "Todos os formulários"
+
+#: ../ultimate-form-builder.php:196 ../inc/views/backend/new-form.php:3
+msgid "New Form"
+msgstr "Novo Formulário"
+
+#: ../ultimate-form-builder.php:197 ../inc/views/backend/form-entries-list.php:26
+msgid "Form Entries"
+msgstr "Entradas de formulário"
+
+#: ../ultimate-form-builder.php:198 ../inc/views/backend/form-elements/custom-elements/agreement-block.php:10 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:13 ../inc/views/backend/form-elements/custom-elements/file-uploader.php:10 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:10 ../inc/views/backend/form-elements/custom-elements/url.php:11 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:10
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:10 ../inc/views/backend/form-elements/html-fields/checkbox.php:12 ../inc/views/backend/form-elements/html-fields/dropdown.php:12 ../inc/views/backend/form-elements/html-fields/email.php:10 ../inc/views/backend/form-elements/html-fields/hidden.php:10 ../inc/views/backend/form-elements/html-fields/number.php:10 ../inc/views/backend/form-elements/html-fields/password.php:10
+#: ../inc/views/backend/form-elements/html-fields/radio.php:11 ../inc/views/backend/form-elements/html-fields/submit.php:9 ../inc/views/backend/form-elements/html-fields/textarea.php:10 ../inc/views/backend/form-elements/html-fields/textfield.php:10 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:10 ../inc/views/backend/form-elements/survey-elements/like-dislike.php:10 ../inc/views/backend/form-elements/survey-elements/star-rating.php:10
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:13 ../inc/views/backend/form-elements/ui-elements/datepicker.php:10 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:17 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:22 ../inc/views/backend/form-elements/ui-elements/ui-slider.php:17 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:11
+#: ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:11 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:11 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:11 ../inc/views/backend/form-reference-elements/custom-elements/url.php:11 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:11 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:12
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:13 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:13 ../inc/views/backend/form-reference-elements/html-fields/email.php:11 ../inc/views/backend/form-reference-elements/html-fields/hidden.php:11 ../inc/views/backend/form-reference-elements/html-fields/number.php:11 ../inc/views/backend/form-reference-elements/html-fields/password.php:11
+#: ../inc/views/backend/form-reference-elements/html-fields/radio.php:12 ../inc/views/backend/form-reference-elements/html-fields/submit.php:10 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:11 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:11 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:12 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:12
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:12 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:12 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:11 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:17 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:22 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:20
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../ultimate-form-builder.php:199 ../inc/views/backend/form-export.php:20
+msgid "Export"
+msgstr "Exportar"
+
+#: ../ultimate-form-builder.php:200
+msgid "Import"
+msgstr "Importar"
+
+#: ../ultimate-form-builder.php:201 ../inc/views/backend/how-to-use.php:3
+msgid "How to use"
+msgstr "Como utilizar"
+
+#: ../ultimate-form-builder.php:202 ../inc/views/backend/about.php:3
+msgid "About"
+msgstr "Sobre"
+
+#: ../ultimate-form-builder.php:215
+msgid "No form found for this form id.Please go back and create a new form."
+msgstr "Nenhum tipo encontrada para este ID de formulário. Por favor, volte para trás e crie um novo formulário."
+
+#: ../ultimate-form-builder.php:276 ../inc/cores/field-type-process.php:7 ../inc/cores/field-type-process.php:78 ../inc/cores/field-type-process.php:151 ../inc/cores/field-type-process.php:225 ../inc/cores/field-type-process.php:287 ../inc/cores/field-type-process.php:361 ../inc/cores/field-type-process.php:423 ../inc/cores/field-type-process.php:496 ../inc/cores/field-type-process.php:622 ../inc/cores/field-type-process.php:633 ../inc/cores/field-type-process.php:701
+#: ../inc/cores/field-type-process.php:772 ../inc/cores/field-type-process.php:893 ../inc/cores/field-type-process.php:921 ../inc/cores/field-type-process.php:967 ../inc/cores/field-type-process.php:989 ../inc/cores/field-type-process.php:1003 ../inc/cores/field-type-process.php:1027
+msgid "This field is required"
+msgstr "Este campo é obrigatório"
+
+#: ../ultimate-form-builder.php:391
+msgid "This form is closed"
+msgstr "Este formulário está fechado"
+
+#: ../ultimate-form-builder.php:395
+msgid "Form couldn't be found for id "
+msgstr "Formulário não foi possível encontrar para id"
+
+#: ../ultimate-form-builder.php:401
+msgid "Form ID missing"
+msgstr "faltando Formulário ID"
+
+#: ../ultimate-form-builder.php:594 ../ultimate-form-builder.php:597
+msgid "Status changed successfully."
+msgstr "Estado alterado com sucesso."
+
+#: ../ultimate-form-builder.php:600
+msgid "Entries deleted successfully."
+msgstr "Entradas eliminado com sucesso."
+
+#: ../ultimate-form-builder.php:604
+msgid "There was an error. Please try again later."
+msgstr "Houve um erro . Por favor, tente novamente mais tarde."
+
+#: ../ultimate-form-builder.php:607
+msgid "Please select at least one entry"
+msgstr "Selecione pelo menos uma entrada"
+
+#: ../ultimate-form-builder.php:669
+msgid "Form imported successfully"
+msgstr "Formulário importado com sucesso"
+
+#: ../ultimate-form-builder.php:671
+msgid "There was some error. Please try again later"
+msgstr "Houve algum erro. Por favor, tente novamente mais tarde"
+
+#: ../classes/ufb-lib.php:94 ../classes/ufb-model.php:273 ../inc/views/backend/boxes/conditional-logic.php:35 ../inc/views/backend/boxes/conditional-logic.php:58 ../inc/views/backend/boxes/conditional-logic.php:91 ../inc/views/backend/boxes/conditional-logic.php:144 ../inc/views/backend/boxes/conditional-logic.php:180 ../inc/views/backend/boxes/conditional-logic.php:192 ../inc/views/backend/boxes/email-settings.php:89
+msgid "Untitled"
+msgstr "Sem título"
+
+#: ../classes/ufb-lib.php:117 ../inc/views/backend/boxes/email-settings.php:47
+msgid "New Form Submission"
+msgstr "Submissão de novo formulário"
+
+#: ../classes/ufb-lib.php:118
+msgid "No Name"
+msgstr "Sem Nome"
+
+#: ../classes/ufb-lib.php:166
+msgid "Entry Created On"
+msgstr "Entrada criada em"
+
+#: ../classes/ufb-lib.php:167 ../inc/views/backend/entry-detail.php:63
+msgid "User IP"
+msgstr "Usuário IP"
+
+#: ../classes/ufb-lib.php:168 ../inc/views/backend/entry-detail.php:67
+msgid "Page URL"
+msgstr "URL página"
+
+#: ../classes/ufb-lib.php:169 ../inc/views/backend/entry-detail.php:81
+msgid "User Logged In"
+msgstr "Usuário conectado"
+
+#: ../classes/ufb-lib.php:170 ../inc/views/backend/entry-detail.php:85
+msgid "Logged In Username"
+msgstr "Usuário logado"
+
+#: ../classes/ufb-lib.php:171 ../inc/views/backend/entry-detail.php:89
+msgid "Logged In User Email"
+msgstr "Usuário conectado Email"
+
+#: ../classes/ufb-lib.php:281
+msgid "Form imported successfully."
+msgstr "Formulário importado com sucesso"
+
+#: ../classes/ufb-lib.php:285 ../classes/ufb-lib.php:289
+msgid "Something went wrong. Please try again later."
+msgstr "Algo deu errado. Por favor, tente novamente mais tarde."
+
+#: ../classes/ufb-lib.php:292
+msgid "Something went wrong. Please check the write permission of tmp folder inside the plugin's folder"
+msgstr "Algo deu errado. Por favor, verifique a permissão de gravação da pasta tmp dentro da pasta plugins"
+
+#: ../classes/ufb-lib.php:295
+msgid "Invalid File Extension"
+msgstr "Extensão de arquivo inválida"
+
+#: ../classes/ufb-model.php:23 ../inc/views/backend/form-list.php:113 ../inc/views/backend/form-list.php:137 ../inc/views/backend/new-form.php:7 ../inc/views/frontend/front-form.php:12
+msgid "Contact Form"
+msgstr "Formulário de Contato"
+
+#: ../classes/ufb-model.php:45 ../classes/ufb-model.php:315
+msgid "Something went wrong.Please try again later"
+msgstr "Algo deu errado. Por favor, tente novamente mais tarde."
+
+#: ../classes/ufb-model.php:76
+msgid "Status updated."
+msgstr "Status atualizado."
+
+#: ../classes/ufb-model.php:76
+msgid "Something went wrong."
+msgstr "Algo deu errado."
+
+#: ../inc/cores/field-type-process.php:12 ../inc/cores/field-type-process.php:83 ../inc/cores/field-type-process.php:428 ../inc/cores/field-type-process.php:506 ../inc/cores/field-type-process.php:972
+msgid "Characters exceeded.Max characters allowed is :"
+msgstr "Caracteres excedidos. caracteres no máximo permitido é:"
+
+#: ../inc/cores/field-type-process.php:17 ../inc/cores/field-type-process.php:88 ../inc/cores/field-type-process.php:433 ../inc/cores/field-type-process.php:511 ../inc/cores/field-type-process.php:977
+msgid "Mininum characters required is :"
+msgstr "Caracteres mínimo exigido é:"
+
+#: ../inc/cores/field-type-process.php:156
+msgid "Please enter the valid email address."
+msgstr "Por favor insira o endereço de e-mail válido."
+
+#: ../inc/cores/field-type-process.php:501
+msgid "Only numbers allowed."
+msgstr "Somente números permitidos."
+
+#: ../inc/cores/field-type-process.php:588 ../inc/cores/field-type-process.php:593
+msgid "Please enter the correct sum."
+msgstr "Por favor, indique a soma correta."
+
+#: ../inc/cores/field-type-process.php:600 ../inc/cores/field-type-process.php:609
+msgid "Please check the captcha."
+msgstr "Por favor verifique o captcha."
+
+#: ../inc/cores/field-type-process.php:836
+msgid "From: "
+msgstr "Desde"
+
+#: ../inc/cores/field-type-process.php:842
+msgid "To: "
+msgstr "Para"
+
+#: ../inc/cores/field-type-process.php:868
+msgid "Criteria not fulfilled"
+msgstr "Critérios não cumpridos"
+
+#: ../inc/cores/field-type-process.php:911
+msgid "Please accept terms and condition"
+msgstr "Por favor, aceite os termos e condições"
+
+#: ../inc/cores/field-type-process.php:928
+msgid "Please fill a valid URL"
+msgstr "Por favor, preencha um URL válido"
+
+#: ../inc/cores/form-process.php:39 ../inc/cores/form-process.php:58 ../inc/views/backend/boxes/display-settings.php:45
+msgid "Form submitted successfully."
+msgstr "Formulário enviado com sucesso"
+
+#: ../inc/cores/form-process.php:40 ../inc/cores/form-process.php:59
+msgid "Validation Errors Occured.Please check and submit the form again."
+msgstr "Ocorreram Erros de validação. Por favor, verifique e envie o formulário novamente."
+
+#: ../inc/cores/save-form.php:167
+msgid "Form Updated Successfully"
+msgstr "Formulário atualizado com sucesso"
+
+#: ../inc/views/backend/entry-detail.php:9
+msgid "Entry Detail"
+msgstr "Detalhe entrada"
+
+#: ../inc/views/backend/entry-detail.php:10
+msgid "Extra Detail"
+msgstr "Detalhe extra"
+
+#: ../inc/views/backend/entry-detail.php:59
+msgid "Entry Posted Date"
+msgstr "Entrada Data de publicação"
+
+#: ../inc/views/backend/entry-detail.php:96
+msgid "It seems that you have deleted the form of this entry.Entry not found in database!"
+msgstr "Parece que você apagou a forma de desta entrada. Entrada não encontrada no banco de dados!"
+
+#: ../inc/views/backend/form-builder.php:12
+msgid "Form Builder"
+msgstr "Construtor de formulários"
+
+#: ../inc/views/backend/form-builder.php:13
+msgid "Display Settings"
+msgstr "Configurações do visor"
+
+#: ../inc/views/backend/form-builder.php:14
+msgid "Email Settings"
+msgstr "Configurações de email"
+
+#: ../inc/views/backend/form-builder.php:15
+msgid "Conditional Logic"
+msgstr "lógica condicional"
+
+#: ../inc/views/backend/form-builder.php:20 ../inc/views/backend/boxes/display-settings.php:72 ../inc/views/backend/boxes/email-settings.php:121 ../inc/views/backend/boxes/form-builder-main.php:189
+msgid "Save Form"
+msgstr "Guardar formulário"
+
+#: ../inc/views/backend/form-builder.php:21 ../inc/views/backend/form-list.php:68 ../inc/views/backend/boxes/display-settings.php:73 ../inc/views/backend/boxes/email-settings.php:122 ../inc/views/backend/boxes/form-builder-main.php:190
+msgid "Preview"
+msgstr "visualizar"
+
+#: ../inc/views/backend/form-builder.php:22 ../inc/views/backend/boxes/display-settings.php:74 ../inc/views/backend/boxes/email-settings.php:123 ../inc/views/backend/boxes/form-builder-main.php:191
+msgid "Note: Please save form before preview."
+msgstr "Nota: Por favor, salve formulário antes da pré-visualização."
+
+#: ../inc/views/backend/form-entries-list.php:28
+msgid "Select bulk action"
+msgstr "Selecionar ação em massa"
+
+#: ../inc/views/backend/form-entries-list.php:30
+msgid "Bulk Action"
+msgstr "Ação em massa"
+
+#: ../inc/views/backend/form-entries-list.php:31 ../inc/views/backend/form-entries-list.php:181
+msgid "Mark as read"
+msgstr "Marcar como Lido"
+
+#: ../inc/views/backend/form-entries-list.php:32 ../inc/views/backend/form-entries-list.php:181
+msgid "Mark as unread"
+msgstr "Marcar como não lido"
+
+#: ../inc/views/backend/form-entries-list.php:33 ../inc/views/backend/form-entries-list.php:180 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:12
+msgid "Delete"
+msgstr "Deletar"
+
+#: ../inc/views/backend/form-entries-list.php:35
+msgid "Apply"
+msgstr "Aplicar"
+
+#: ../inc/views/backend/form-entries-list.php:37
+msgid "All Form entries"
+msgstr "Todas as entradas de formulário"
+
+#: ../inc/views/backend/form-entries-list.php:53
+msgid "Export to CSV"
+msgstr "Exportar CSV"
+
+#: ../inc/views/backend/form-entries-list.php:76
+msgid "Previous"
+msgstr "Anterior"
+
+#: ../inc/views/backend/form-entries-list.php:96 ../inc/views/backend/boxes/form-builder-main.php:144 ../inc/views/frontend/front-form.php:72
+msgid "Next"
+msgstr "Próxima"
+
+#: ../inc/views/backend/form-entries-list.php:107
+msgid "Note: Please select a form to export the entries to CSV file"
+msgstr "Nota: Por favor, selecione um formulário para exportar as entradas para arquivo CSV"
+
+#: ../inc/views/backend/form-entries-list.php:114 ../inc/views/backend/form-entries-list.php:137
+msgid "Select All"
+msgstr "Selecionar todos"
+
+#: ../inc/views/backend/form-entries-list.php:119 ../inc/views/backend/form-entries-list.php:142
+msgid "SN"
+msgstr "SN"
+
+#: ../inc/views/backend/form-entries-list.php:122 ../inc/views/backend/form-entries-list.php:145 ../inc/views/backend/form-list.php:20 ../inc/views/backend/form-list.php:36 ../inc/views/backend/form-list.php:112 ../inc/views/backend/new-form.php:6
+msgid "Form Title"
+msgstr "Titulo do formulário"
+
+#: ../inc/views/backend/form-entries-list.php:125 ../inc/views/backend/form-entries-list.php:148 ../inc/views/backend/boxes/email-settings.php:102
+msgid "Entry Recieved"
+msgstr "Entrada recebida"
+
+#: ../inc/views/backend/form-entries-list.php:128 ../inc/views/backend/form-entries-list.php:151 ../inc/views/backend/form-list.php:29 ../inc/views/backend/form-list.php:45
+msgid "Status"
+msgstr "Estado"
+
+#: ../inc/views/backend/form-entries-list.php:182
+msgid "View Entry"
+msgstr "Ver Entrada"
+
+#: ../inc/views/backend/form-entries-list.php:184
+msgid "Are you sure you want to delete this entry?"
+msgstr "Tem certeza de que deseja apagar esta entrada?"
+
+#: ../inc/views/backend/form-entries-list.php:185 ../inc/views/backend/form-list.php:72 ../inc/views/frontend/front-form.php:98
+msgid "Yes"
+msgstr "Sim"
+
+#: ../inc/views/backend/form-entries-list.php:186 ../inc/views/backend/form-list.php:73
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../inc/views/backend/form-entries-list.php:197
+msgid "Unread"
+msgstr "Não lida"
+
+#: ../inc/views/backend/form-entries-list.php:197
+msgid "Read"
+msgstr "Ler"
+
+#: ../inc/views/backend/form-entries-list.php:207
+msgid "Entries not found for this form."
+msgstr "Entradas não encontradas para este formulário."
+
+#: ../inc/views/backend/form-export.php:3
+msgid "Form Export"
+msgstr "Exportar formulário"
+
+#: ../inc/views/backend/form-export.php:9
+msgid "Choose Form to Export"
+msgstr "Escolher formulário para exportar"
+
+#: ../inc/views/backend/form-export.php:12
+msgid "Select one"
+msgstr "Selecionar um"
+
+#: ../inc/views/backend/form-import.php:5
+msgid "Form Import"
+msgstr "Importar formulário"
+
+#: ../inc/views/backend/form-import.php:8
+msgid "Please make sure the <strong>tmp</strong> folder inside the plugin folder is writable. Else form import may not work properly. The import file extension should be <strong>.json</strong> and please make sure you upload the right file else there may cause some error."
+msgstr "Por favor, verifique se o<strong>tmp</strong>pasta dentro da pasta do plugin é gravável. Outros formulários importados poderão não funcionar corretamente. A extensão do arquivo de importação deve ser <strong>.json</strong> e certifique-se de fazer o upload do arquivo correto ou poderá causar algum erro."
+
+#: ../inc/views/backend/form-import.php:14
+msgid "Upload Import File"
+msgstr "Faça o upload do arquivo de importação"
+
+#: ../inc/views/backend/form-import.php:18 ../inc/views/backend/form-import.php:43
+msgid "Import Form"
+msgstr "Importar formulário"
+
+#: ../inc/views/backend/form-import.php:32
+msgid "Import Free Version Forms"
+msgstr "Importar versão gratuita do formulário"
+
+#: ../inc/views/backend/form-import.php:35
+msgid "Choose a form to import"
+msgstr "Escolha um formulário para importar"
+
+#: ../inc/views/backend/form-list.php:14
+msgid "Add New Form"
+msgstr "Adicionar Novo formulário"
+
+#: ../inc/views/backend/form-list.php:23 ../inc/views/backend/form-list.php:39
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../inc/views/backend/form-list.php:26 ../inc/views/backend/form-list.php:42
+msgid "Last Modified"
+msgstr ""
+"Última modificação\n"
+"modificação\n"
+"Sinónimos de modificação\n"
+"substantivo\n"
+"variação, mudança, alteração\n"
+"ajuste, alteração"
+
+#: ../inc/views/backend/form-list.php:69
+msgid "Entries"
+msgstr "Entradas"
+
+#: ../inc/views/backend/form-list.php:71
+msgid "Are you sure you want to delete this form?"
+msgstr "Tem certeza de que deseja excluir este formulário?"
+
+#: ../inc/views/backend/form-list.php:99
+msgid "Forms not added yet"
+msgstr "Ainda não adicionou formulário"
+
+#: ../inc/views/backend/form-list.php:114 ../inc/views/backend/form-list.php:138 ../inc/views/backend/new-form.php:8
+msgid "Please enter the form title"
+msgstr "Por favor, indique o título do formulário"
+
+#: ../inc/views/backend/form-list.php:117 ../inc/views/backend/new-form.php:11
+msgid "Form Type"
+msgstr "Tipo do formulário"
+
+#: ../inc/views/backend/form-list.php:120 ../inc/views/backend/new-form.php:14
+msgid "Single Step Form"
+msgstr "Formulário etapa única"
+
+#: ../inc/views/backend/form-list.php:121 ../inc/views/backend/new-form.php:15
+msgid "Multi Step Form"
+msgstr "Formulário várias etapas"
+
+#: ../inc/views/backend/form-list.php:124 ../inc/views/backend/new-form.php:18
+msgid "Please choose form type."
+msgstr "Escolha por favor tipo de formulário."
+
+#: ../inc/views/backend/form-list.php:127
+msgid "Add Form"
+msgstr "Adicionar formulário"
+
+#: ../inc/views/backend/form-list.php:127
+msgid "Form Created.Redirecting..."
+msgstr "Formulário criado. Redirecionando..."
+
+#: ../inc/views/backend/form-list.php:136
+msgid "Copy Form Title"
+msgstr "Copiar título de formulário "
+
+#: ../inc/views/backend/form-list.php:150
+msgid "Please choose a form to copy."
+msgstr "Por favor, escolha um formulário para copiar."
+
+#: ../inc/views/backend/form-list.php:153
+msgid "Copy Form"
+msgstr "Copiar Formulário"
+
+#: ../inc/views/backend/form-list.php:153
+msgid "Form Copied.Redirecting..."
+msgstr "Formulário copiado. Redirecionando..."
+
+#: ../inc/views/backend/form-settings.php:4
+msgid "Global Settings"
+msgstr "Configurações globais"
+
+#: ../inc/views/backend/form-settings.php:7
+msgid "Disable jQuery UI CSS"
+msgstr "Desativar jQuery UI CSS"
+
+#: ../inc/views/backend/form-settings.php:10
+msgid "Please check if you want to disable jQuery UI CSS in frontend. It will be useful if your active theme has already included the jQuery UI CSS"
+msgstr "Por favor, verifique se você quer desativar o jQuery UI CSS no frontend. Ele será útil se o seu tema ativo já incluiu o jQuery UI CSS"
+
+#: ../inc/views/backend/form-settings.php:15
+msgid "Disable Font Awesome CSS"
+msgstr "Desativar fonte impressionante CSS"
+
+#: ../inc/views/backend/form-settings.php:18
+msgid "Please check if you want to disable font awesome css in frontend. It will be useful if your active theme has already included the font awesome CSS"
+msgstr "Por favor, verifique se você quer desativar css impressionante fonte no frontend. Ele será útil se o seu tema ativo já incluiu a CSS impressionante fonte"
+
+#: ../inc/views/backend/form-settings.php:28
+msgid "Settings saved successfully"
+msgstr "Configurações salvas com sucesso"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:9
+msgid "Display Logic"
+msgstr "lógica de exibição"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:10
+msgid "Email Logic"
+msgstr "Lógica e-mail"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:11
+msgid "Redirect Logic"
+msgstr "redirecionar Logic"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:14
+msgid "Note: Single Line Textfield, Multiple Line Textfield, Email, Dropdown, Radio Buttons, Checkbox, Number field, Datepicker, URL field  are only applicable for conditional Logic"
+msgstr "Nota: Linha Campo de texto, múltiplas linhas Campo de texto, e-mail, suspensa, botões de rádio, caixas de seleção, campo Número, Datepicker, campo de URL são aplicáveis apenas para a lógica condicional"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:15
+msgid "If you have added new fields but haven't saved the form, then please save the form first before adding the conditonal logic."
+msgstr "Se você adicionou novos campos, mas não salvou o formulário, em seguida, salve o formulário pela primeira vez antes de adicionar a lógica condicional."
+
+#: ../inc/views/backend/boxes/conditional-logic.php:18 ../inc/views/backend/boxes/conditional-logic.php:74 ../inc/views/backend/boxes/conditional-logic.php:127
+msgid "Add New Condition"
+msgstr "Adicionar nova condição"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:26 ../inc/views/backend/boxes/conditional-logic.php:82 ../inc/views/backend/boxes/conditional-logic.php:135
+msgid "If"
+msgstr "E se"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:28 ../inc/views/backend/boxes/conditional-logic.php:84 ../inc/views/backend/boxes/conditional-logic.php:137 ../inc/views/backend/boxes/conditional-logic.php:173 ../inc/views/backend/boxes/conditional-logic.php:189 ../inc/views/backend/boxes/email-settings.php:82
+msgid "Choose Field"
+msgstr "Escolher Campo"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:43 ../inc/views/backend/boxes/conditional-logic.php:99 ../inc/views/backend/boxes/conditional-logic.php:152
+msgid "is"
+msgstr "é"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:50
+msgid "then"
+msgstr "depois"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:106
+msgid "then email to"
+msgstr "depois enviar e-mail para"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:119
+msgid "Default Redirect URL"
+msgstr "Padrão URL de redireccionamento"
+
+#: ../inc/views/backend/boxes/conditional-logic.php:123
+msgid "If you want to redirect the user to any other page after the successful form submission then please add the URL and leave blank if you don't want to redirect.<br/> Users will be redirected only when any of the redirect conditions will not match."
+msgstr "Se você quiser redirecionar o usuário para outra página após o envio do formulário bem sucedido, então por favor, adicionar o URL e deixe em branco se você não deseja redirecionar.<br/> Se você quiser redirecionar o usuário para outra página após o envio do formulário bem sucedido, então por favor, adicionar o URL e deixe em branco se você não deseja redirecionar. Usuário será redirecionado apenas quando qualquer uma das condições de redirecionamento não vai partida."
+
+#: ../inc/views/backend/boxes/conditional-logic.php:159
+msgid "then redirect to"
+msgstr "depois redirecionar para"
+
+#: ../inc/views/backend/boxes/display-settings.php:10
+msgid "Disable Plugin Styles"
+msgstr "Desativar Estilos Plugin"
+
+#: ../inc/views/backend/boxes/display-settings.php:13
+msgid "Check if you want to disable all the plugin styles in the frontend."
+msgstr "Verificar se deseja desativar todos os estilos de plugin no frontend."
+
+#: ../inc/views/backend/boxes/display-settings.php:17
+msgid "Hide Form Title"
+msgstr "Esconder Título formulário"
+
+#: ../inc/views/backend/boxes/display-settings.php:20
+msgid "Check to hide the form title in frontend form."
+msgstr "Verificar para ocultar o título do formulário em formato frontend."
+
+#: ../inc/views/backend/boxes/display-settings.php:26
+msgid "Hide Multi Steps Heading"
+msgstr "Esconder multi rubrica multi passos"
+
+#: ../inc/views/backend/boxes/display-settings.php:29
+msgid "Check to hide the tabs heading in frontend form."
+msgstr "Verificar para esconder as abas título em formato frontend."
+
+#: ../inc/views/backend/boxes/display-settings.php:36
+msgid "Form Width"
+msgstr "Formulário Largura"
+
+#: ../inc/views/backend/boxes/display-settings.php:39
+msgid "Please provide the width of form either in px or %.Default width is 100%."
+msgstr "Por favor, forneça a largura da forma quer em px ou %.largura padrão é 100%."
+
+#: ../inc/views/backend/boxes/display-settings.php:43
+msgid "Form Submission Message"
+msgstr "Mensagem envio de formulário"
+
+#: ../inc/views/backend/boxes/display-settings.php:49
+msgid "Form Error Message"
+msgstr "Mensagem de erro Formulário"
+
+#: ../inc/views/backend/boxes/display-settings.php:51
+msgid "Validation errors occurred in the form."
+msgstr "Erros de validação ocorreu no formulário."
+
+#: ../inc/views/backend/boxes/display-settings.php:55
+msgid "Form Template"
+msgstr "Modelo de formulário"
+
+#: ../inc/views/backend/boxes/display-settings.php:78
+msgid "Template Preview"
+msgstr "Visualizar modelo"
+
+#: ../inc/views/backend/boxes/email-settings.php:10
+msgid "Email Reciever"
+msgstr "Receptor de e-mail"
+
+#: ../inc/views/backend/boxes/email-settings.php:12
+msgid "Add email"
+msgstr "Adcionar email"
+
+#: ../inc/views/backend/boxes/email-settings.php:33
+msgid "From Email"
+msgstr "A partir do Email"
+
+#: ../inc/views/backend/boxes/email-settings.php:39
+msgid "From Name"
+msgstr "A partir do Nome"
+
+#: ../inc/views/backend/boxes/email-settings.php:45
+msgid "Email Subject"
+msgstr "Assunto do email"
+
+#: ../inc/views/backend/boxes/email-settings.php:51
+msgid "Message Format"
+msgstr "Formato da mensagem"
+
+#: ../inc/views/backend/boxes/email-settings.php:54
+msgid ""
+"Hello there,\n"
+"\n"
+"You have got a new Form Submission from #form_title.Details below:\n"
+"\n"
+"#form_details\n"
+"\n"
+"Thank you"
+msgstr ""
+"Olá\n"
+",\n"
+"\n"
+"Você tem um novo envio de formulário de\n"
+" #form_title.Detalhes abaixo:\n"
+"\n"
+"#form_details\n"
+"\n"
+"Obrigado"
+
+#: ../inc/views/backend/boxes/email-settings.php:64
+msgid "Please use #form_title and #form_details to replace Form Title and Form Recieved Data in the email respectively."
+msgstr "Por favor, use #form_title and #form_details para substituir o Título do formulário e forma recebida Dados no e-mail, respectivamente."
+
+#: ../inc/views/backend/boxes/email-settings.php:68
+msgid "Email Auto Respond"
+msgstr "Resposta de email automática"
+
+#: ../inc/views/backend/boxes/email-settings.php:75
+msgid "For auto respond to work, the form should have at least a single email field."
+msgstr "Para respostas automáticas para o trabalho, a formato deve ter pelo menos um campo único e-mail."
+
+#: ../inc/views/backend/boxes/email-settings.php:79
+msgid "Auto Respond Email"
+msgstr "Resposta automática E-mail"
+
+#: ../inc/views/backend/boxes/email-settings.php:96
+msgid "If you have added a email field in the form and haven't saved the form yet, then please save the form first to get that email field in this list."
+msgstr "Se você tiver adicionado um campo de e-mail no formulário e não tiver guardado o formulário ainda, então por favor, salve o formulário pela primeira vez para obter o campo de e-mail nesta lista."
+
+#: ../inc/views/backend/boxes/email-settings.php:100
+msgid "Auto Respond Subject"
+msgstr "Auto Resposta Assunto"
+
+#: ../inc/views/backend/boxes/email-settings.php:106
+msgid "Auto Repond Message"
+msgstr "Mensagem resposta automática"
+
+#: ../inc/views/backend/boxes/email-settings.php:109
+msgid ""
+"Hi there, \n"
+"                    \n"
+"We have recieved your enquiry. We will get back to you shortly.\n"
+"                    \n"
+"Thank you"
+msgstr ""
+"Olá, \n"
+"                    \n"
+"Recebemos seu inquérito. Nós entraremos em contato com você em breve.\n"
+"                    \n"
+"Obrigado"
+
+#: ../inc/views/backend/boxes/email-settings.php:117
+msgid "Please use #form_details to send the form data in the auto respond email."
+msgstr "Por favor use #form_details para enviar os dados do formulário no e-mail de resposta automática."
+
+#: ../inc/views/backend/boxes/form-builder-main.php:13 ../inc/views/backend/boxes/form-builder-main.php:83 ../inc/views/frontend/front-form.php:25 ../inc/views/frontend/front-form.php:46
+msgid "Step"
+msgstr "Etapa"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:18
+msgid "Add another step"
+msgstr "Adicionar mais uma etapa"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:19
+msgid "Delete step"
+msgstr "excluir etapa"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:19
+msgid "Are you sure you want to delete the step?"
+msgstr "Tem certeza de que deseja excluir a etapa?"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:21
+msgid "Note: Please don't include submit button in the multistep form. Enable next button from the step details for the last step which will work as the submit button."
+msgstr "Nota: Por favor, não incluir botão enviarem forma de várias etapas. Activar o botão próximo dos detalhes para a última etapa, que vai funcionar como o botão enviar."
+
+#: ../inc/views/backend/boxes/form-builder-main.php:24 ../inc/views/backend/boxes/form-builder-main.php:34
+msgid "HTML Elements"
+msgstr "Elementos HTML"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:25 ../inc/views/backend/boxes/form-builder-main.php:48
+msgid "UI Elements"
+msgstr "Elementos UI"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:26 ../inc/views/backend/boxes/form-builder-main.php:56
+msgid "Custom Elements"
+msgstr "Elementos personalizados"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:27 ../inc/views/backend/boxes/form-builder-main.php:65
+msgid "Survey Elements"
+msgstr "Elementos sondagem"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:35
+msgid "Single Line Textfield"
+msgstr "Campo de texto de linha única"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:36
+msgid "Multiple Line Textfield"
+msgstr "Campo de texto de linha múltipla"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:37
+msgid "Email Address"
+msgstr "Endereço de e-mail"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:38
+msgid "Dropdown Menu"
+msgstr ""
+"Menu suspenso\n"
+"suspenso"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:39
+msgid "Radio Button"
+msgstr "Botao de radio"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:40
+msgid "Checkbox"
+msgstr "Caixa de seleção"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:41
+msgid "Password"
+msgstr "Senha"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:42
+msgid "Hidden Field"
+msgstr "Campo oculto"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:43
+msgid "Number Field"
+msgstr ""
+"número de campo\n"
+"campo\n"
+"Sinónimos de campo\n"
+"substantivo\n"
+"disciplina\n"
+"terreno"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:44
+msgid "Submit Button"
+msgstr "botão enviar"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:45
+msgid "Captcha"
+msgstr "Captcha"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:49
+msgid "Datepicker"
+msgstr "Datepicker"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:50
+msgid "Datepicker Date Range"
+msgstr "Datepicker intervalo de datas"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:51
+msgid "Dropdown Date"
+msgstr "Drop Down Data"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:52
+msgid "Dropdown Date Range"
+msgstr "Drop down Período"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:53
+msgid "UI Slider"
+msgstr "UI Slider"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:57
+msgid "File Uploader"
+msgstr "Carregar arquivo"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:58
+msgid "Custom Texts"
+msgstr "Textos personalizados"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:59
+msgid "Agreement Block"
+msgstr "Agreement Block"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:61
+msgid "URL Field"
+msgstr "Campo URL"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:62
+msgid "WYSIWYG"
+msgstr "WYSIWYG"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:66
+msgid "Star Ratings"
+msgstr "avaliações por estrelas"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:67
+msgid "Like Dislike Thumb"
+msgstr "Like Dislike Thumb"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:68
+msgid "Choice Matrix"
+msgstr "escolha da matriz"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:85
+msgid "Fields"
+msgstr "Campos"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:86
+msgid "Step Details"
+msgstr "Detalhes da etapa"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:104
+msgid "Show Step Title"
+msgstr "Mostrar título etapa"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:113
+msgid "Step Title"
+msgstr "Etapa Título"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:120
+msgid "Show Back Button"
+msgstr "Mostrar Botão Voltar"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:127
+msgid "Back Button Label"
+msgstr "Etiqueta do Botão Voltar"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:130 ../inc/views/frontend/front-form.php:66
+msgid "Back"
+msgstr "Voltar"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:134
+msgid "Show Next Step Button"
+msgstr "Mostrar Botão Continuar"
+
+#: ../inc/views/backend/boxes/form-builder-main.php:141
+msgid "Next Button Label"
+msgstr "Etiqueta do Botão Continuar"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:4
+msgid "Untitled Agreement Texts"
+msgstr "Textos de Aceitação de sem título"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:6 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:7
+msgid "I agree all the terms and conditions"
+msgstr "Concordo os termos e condições"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:17 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:20 ../inc/views/backend/form-elements/custom-elements/file-uploader.php:16 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:16 ../inc/views/backend/form-elements/custom-elements/url.php:17 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:16
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:16 ../inc/views/backend/form-elements/html-fields/checkbox.php:18 ../inc/views/backend/form-elements/html-fields/dropdown.php:18 ../inc/views/backend/form-elements/html-fields/email.php:16 ../inc/views/backend/form-elements/html-fields/hidden.php:16 ../inc/views/backend/form-elements/html-fields/number.php:16 ../inc/views/backend/form-elements/html-fields/password.php:16
+#: ../inc/views/backend/form-elements/html-fields/radio.php:17 ../inc/views/backend/form-elements/html-fields/textarea.php:16 ../inc/views/backend/form-elements/html-fields/textfield.php:16 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:16 ../inc/views/backend/form-elements/survey-elements/like-dislike.php:16 ../inc/views/backend/form-elements/survey-elements/star-rating.php:16 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:19
+#: ../inc/views/backend/form-elements/ui-elements/datepicker.php:16 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:23 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:28 ../inc/views/backend/form-elements/ui-elements/ui-slider.php:23 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:18 ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:18
+#: ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:17 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:17 ../inc/views/backend/form-reference-elements/custom-elements/url.php:17 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:17 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:18 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:19
+#: ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:19 ../inc/views/backend/form-reference-elements/html-fields/email.php:17 ../inc/views/backend/form-reference-elements/html-fields/hidden.php:17 ../inc/views/backend/form-reference-elements/html-fields/number.php:17 ../inc/views/backend/form-reference-elements/html-fields/password.php:17 ../inc/views/backend/form-reference-elements/html-fields/radio.php:18
+#: ../inc/views/backend/form-reference-elements/html-fields/textarea.php:17 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:17 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:18 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:18 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:18 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:18
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:17 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:23 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:28 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:26
+msgid "Field Label"
+msgstr "Legenda do campo"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:18 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:21 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:19 ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:19
+msgid "This label won't show up in the form.Its just the reference for you to recognize the field."
+msgstr "Esta etiqueta não vai aparecer no formulário. esta é apenas a referência para você reconhecer o campo."
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:22 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:23
+msgid "Agreement Section"
+msgstr "concordância de seção"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:27 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:51 ../inc/views/backend/form-elements/custom-elements/url.php:52 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:62 ../inc/views/backend/form-elements/html-fields/captcha.php:74 ../inc/views/backend/form-elements/html-fields/checkbox.php:53 ../inc/views/backend/form-elements/html-fields/dropdown.php:53
+#: ../inc/views/backend/form-elements/html-fields/email.php:51 ../inc/views/backend/form-elements/html-fields/number.php:63 ../inc/views/backend/form-elements/html-fields/password.php:63 ../inc/views/backend/form-elements/html-fields/radio.php:52 ../inc/views/backend/form-elements/html-fields/textarea.php:51 ../inc/views/backend/form-elements/html-fields/textfield.php:63 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:52
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:52 ../inc/views/backend/form-elements/survey-elements/star-rating.php:52 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:67 ../inc/views/backend/form-elements/ui-elements/datepicker.php:52 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:59 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:76
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:104 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:27 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:45 ../inc/views/backend/form-reference-elements/custom-elements/url.php:45 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:55 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:69
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:47 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:47 ../inc/views/backend/form-reference-elements/html-fields/email.php:45 ../inc/views/backend/form-reference-elements/html-fields/number.php:57 ../inc/views/backend/form-reference-elements/html-fields/password.php:57 ../inc/views/backend/form-reference-elements/html-fields/radio.php:46
+#: ../inc/views/backend/form-reference-elements/html-fields/textarea.php:45 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:57 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:46 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:46 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:46 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:58
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:45 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:51 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:68 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:100
+msgid "Error Message"
+msgstr "Mensagem de erro"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:33 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:33
+msgid "Agreement Text"
+msgstr "concordância Texto"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:33 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:30 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:33 ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:28
+msgid "You can use basic html tags such as &lt;p>, &lt;strong>,&lt;u>, &lt;em>, &lt;ul> &lt;li>, &lt;quote>, &lt;a> etc. "
+msgstr "Você pode usar tags HTML básicas, tais como &lt;p>, &lt;strong>,&lt;u>, &lt;em>, &lt;ul> &lt;li>, &lt;quote>, &lt;a> etc. "
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:39 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:36 ../inc/views/backend/form-elements/custom-elements/file-uploader.php:163 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:91 ../inc/views/backend/form-elements/custom-elements/url.php:70 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:95
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:87 ../inc/views/backend/form-elements/html-fields/checkbox.php:83 ../inc/views/backend/form-elements/html-fields/dropdown.php:89 ../inc/views/backend/form-elements/html-fields/email.php:69 ../inc/views/backend/form-elements/html-fields/hidden.php:28 ../inc/views/backend/form-elements/html-fields/number.php:81 ../inc/views/backend/form-elements/html-fields/password.php:75
+#: ../inc/views/backend/form-elements/html-fields/radio.php:85 ../inc/views/backend/form-elements/html-fields/submit.php:34 ../inc/views/backend/form-elements/html-fields/textarea.php:93 ../inc/views/backend/form-elements/html-fields/textfield.php:81 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:120 ../inc/views/backend/form-elements/survey-elements/like-dislike.php:70 ../inc/views/backend/form-elements/survey-elements/star-rating.php:88
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:129 ../inc/views/backend/form-elements/ui-elements/datepicker.php:114 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:118 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:135 ../inc/views/backend/form-elements/ui-elements/ui-slider.php:119 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:39
+#: ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:34 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:155 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:85 ../inc/views/backend/form-reference-elements/custom-elements/url.php:63 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:89 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:81
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:79 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:85 ../inc/views/backend/form-reference-elements/html-fields/email.php:63 ../inc/views/backend/form-reference-elements/html-fields/hidden.php:29 ../inc/views/backend/form-reference-elements/html-fields/number.php:75 ../inc/views/backend/form-reference-elements/html-fields/password.php:69
+#: ../inc/views/backend/form-reference-elements/html-fields/radio.php:73 ../inc/views/backend/form-reference-elements/html-fields/submit.php:34 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:87 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:75 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:109 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:64
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:115 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:120 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:107 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:119 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:137
+#: ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:115
+msgid "ID of the field"
+msgstr ""
+"ID do campo\n"
+"do campo\n"
+"Ver também\n"
+"do, campo"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:45 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:42 ../inc/views/backend/form-elements/custom-elements/file-uploader.php:169 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:97 ../inc/views/backend/form-elements/custom-elements/url.php:76 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:101
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:93 ../inc/views/backend/form-elements/html-fields/checkbox.php:89 ../inc/views/backend/form-elements/html-fields/dropdown.php:95 ../inc/views/backend/form-elements/html-fields/email.php:75 ../inc/views/backend/form-elements/html-fields/hidden.php:34 ../inc/views/backend/form-elements/html-fields/number.php:87 ../inc/views/backend/form-elements/html-fields/password.php:81
+#: ../inc/views/backend/form-elements/html-fields/radio.php:91 ../inc/views/backend/form-elements/html-fields/submit.php:40 ../inc/views/backend/form-elements/html-fields/textarea.php:99 ../inc/views/backend/form-elements/html-fields/textfield.php:87 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:126 ../inc/views/backend/form-elements/survey-elements/like-dislike.php:76 ../inc/views/backend/form-elements/survey-elements/star-rating.php:94
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:135 ../inc/views/backend/form-elements/ui-elements/datepicker.php:120 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:124 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:141 ../inc/views/backend/form-elements/ui-elements/ui-slider.php:125 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:45
+#: ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:40 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:161 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:91 ../inc/views/backend/form-reference-elements/custom-elements/url.php:69 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:95 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:87
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:85 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:91 ../inc/views/backend/form-reference-elements/html-fields/email.php:69 ../inc/views/backend/form-reference-elements/html-fields/hidden.php:35 ../inc/views/backend/form-reference-elements/html-fields/number.php:81 ../inc/views/backend/form-reference-elements/html-fields/password.php:75
+#: ../inc/views/backend/form-reference-elements/html-fields/radio.php:79 ../inc/views/backend/form-reference-elements/html-fields/submit.php:40 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:93 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:81 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:115 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:70
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:121 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:126 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:113 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:125 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:143
+#: ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:121
+msgid "Class of the field"
+msgstr "Classe do campo"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:52 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:49 ../inc/views/backend/form-elements/custom-elements/file-uploader.php:176 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:104 ../inc/views/backend/form-elements/custom-elements/url.php:83 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:108
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:100 ../inc/views/backend/form-elements/html-fields/checkbox.php:96 ../inc/views/backend/form-elements/html-fields/dropdown.php:102 ../inc/views/backend/form-elements/html-fields/email.php:82 ../inc/views/backend/form-elements/html-fields/number.php:94 ../inc/views/backend/form-elements/html-fields/password.php:88 ../inc/views/backend/form-elements/html-fields/radio.php:98
+#: ../inc/views/backend/form-elements/html-fields/submit.php:47 ../inc/views/backend/form-elements/html-fields/textarea.php:106 ../inc/views/backend/form-elements/html-fields/textfield.php:94 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:133 ../inc/views/backend/form-elements/survey-elements/like-dislike.php:83 ../inc/views/backend/form-elements/survey-elements/star-rating.php:101
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:142 ../inc/views/backend/form-elements/ui-elements/datepicker.php:127 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:131 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:148 ../inc/views/backend/form-elements/ui-elements/ui-slider.php:132 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:52
+#: ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:47 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:168 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:98 ../inc/views/backend/form-reference-elements/custom-elements/url.php:76 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:102 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:94
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:92 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:98 ../inc/views/backend/form-reference-elements/html-fields/email.php:76 ../inc/views/backend/form-reference-elements/html-fields/number.php:88 ../inc/views/backend/form-reference-elements/html-fields/password.php:82 ../inc/views/backend/form-reference-elements/html-fields/radio.php:86
+#: ../inc/views/backend/form-reference-elements/html-fields/submit.php:47 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:100 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:88 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:122 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:77 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:128
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:133 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:120 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:132 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:150 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:128
+msgid "Column"
+msgstr "Coluna"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:53 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:50 ../inc/views/backend/form-elements/custom-elements/file-uploader.php:177 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:105 ../inc/views/backend/form-elements/custom-elements/url.php:84 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:109
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:101 ../inc/views/backend/form-elements/html-fields/checkbox.php:97 ../inc/views/backend/form-elements/html-fields/dropdown.php:103 ../inc/views/backend/form-elements/html-fields/email.php:83 ../inc/views/backend/form-elements/html-fields/number.php:95 ../inc/views/backend/form-elements/html-fields/password.php:89 ../inc/views/backend/form-elements/html-fields/radio.php:99
+#: ../inc/views/backend/form-elements/html-fields/submit.php:48 ../inc/views/backend/form-elements/html-fields/textarea.php:107 ../inc/views/backend/form-elements/html-fields/textfield.php:95 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:134 ../inc/views/backend/form-elements/survey-elements/like-dislike.php:84 ../inc/views/backend/form-elements/survey-elements/star-rating.php:102
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:143 ../inc/views/backend/form-elements/ui-elements/datepicker.php:128 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:132 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:149 ../inc/views/backend/form-elements/ui-elements/ui-slider.php:133 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:53
+#: ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:48 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:169 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:99 ../inc/views/backend/form-reference-elements/custom-elements/url.php:77 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:103 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:95
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:93 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:99 ../inc/views/backend/form-reference-elements/html-fields/email.php:77 ../inc/views/backend/form-reference-elements/html-fields/number.php:89 ../inc/views/backend/form-reference-elements/html-fields/password.php:83 ../inc/views/backend/form-reference-elements/html-fields/radio.php:87
+#: ../inc/views/backend/form-reference-elements/html-fields/submit.php:48 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:101 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:89 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:123 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:78 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:129
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:134 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:121 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:133 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:151 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:129
+msgid "This is the column wise display of your field."
+msgstr "Esta é a coluna de exibição inteligente do seu campo."
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:67 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:64 ../inc/views/backend/form-elements/custom-elements/file-uploader.php:191 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:119 ../inc/views/backend/form-elements/custom-elements/url.php:98 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:123
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:115 ../inc/views/backend/form-elements/html-fields/checkbox.php:110 ../inc/views/backend/form-elements/html-fields/dropdown.php:116 ../inc/views/backend/form-elements/html-fields/email.php:96 ../inc/views/backend/form-elements/html-fields/number.php:108 ../inc/views/backend/form-elements/html-fields/password.php:102 ../inc/views/backend/form-elements/html-fields/radio.php:112
+#: ../inc/views/backend/form-elements/html-fields/submit.php:61 ../inc/views/backend/form-elements/html-fields/textarea.php:120 ../inc/views/backend/form-elements/html-fields/textfield.php:108 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:148 ../inc/views/backend/form-elements/survey-elements/like-dislike.php:98 ../inc/views/backend/form-elements/survey-elements/star-rating.php:116
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:156 ../inc/views/backend/form-elements/ui-elements/datepicker.php:141 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:145 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:162 ../inc/views/backend/form-elements/ui-elements/ui-slider.php:146 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:66
+#: ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:61 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:182 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:112 ../inc/views/backend/form-reference-elements/custom-elements/url.php:90 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:116 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:108
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:106 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:112 ../inc/views/backend/form-reference-elements/html-fields/email.php:90 ../inc/views/backend/form-reference-elements/html-fields/number.php:102 ../inc/views/backend/form-reference-elements/html-fields/password.php:96 ../inc/views/backend/form-reference-elements/html-fields/radio.php:100
+#: ../inc/views/backend/form-reference-elements/html-fields/submit.php:61 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:114 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:102 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:147 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:134 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:146
+#: ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:164 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:142
+msgid "Hidden by Default"
+msgstr "Oculto por padrão"
+
+#: ../inc/views/backend/form-elements/custom-elements/agreement-block.php:68 ../inc/views/backend/form-elements/custom-elements/custom-texts.php:65 ../inc/views/backend/form-elements/custom-elements/file-uploader.php:192 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:120 ../inc/views/backend/form-elements/custom-elements/url.php:99 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:124
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:116 ../inc/views/backend/form-elements/html-fields/checkbox.php:110 ../inc/views/backend/form-elements/html-fields/dropdown.php:116 ../inc/views/backend/form-elements/html-fields/email.php:96 ../inc/views/backend/form-elements/html-fields/number.php:108 ../inc/views/backend/form-elements/html-fields/password.php:102 ../inc/views/backend/form-elements/html-fields/radio.php:112
+#: ../inc/views/backend/form-elements/html-fields/submit.php:61 ../inc/views/backend/form-elements/html-fields/textarea.php:120 ../inc/views/backend/form-elements/html-fields/textfield.php:108 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:149 ../inc/views/backend/form-elements/survey-elements/like-dislike.php:99 ../inc/views/backend/form-elements/survey-elements/star-rating.php:117
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:156 ../inc/views/backend/form-elements/ui-elements/datepicker.php:141 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:145 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:162 ../inc/views/backend/form-elements/ui-elements/ui-slider.php:146 ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:67
+#: ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:62 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:183 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:113 ../inc/views/backend/form-reference-elements/custom-elements/url.php:91 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:117 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:109
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:107 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:113 ../inc/views/backend/form-reference-elements/html-fields/email.php:91 ../inc/views/backend/form-reference-elements/html-fields/number.php:103 ../inc/views/backend/form-reference-elements/html-fields/password.php:97 ../inc/views/backend/form-reference-elements/html-fields/radio.php:101
+#: ../inc/views/backend/form-reference-elements/html-fields/submit.php:62 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:115 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:103 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:148 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:135 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:147
+#: ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:165 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:143
+msgid "Check if you want to hide this element at the beginning of the form load. It is useful when you want show with some conditional logic."
+msgstr "Verifique se você quer esconder esse elemento no início do carregamento formulário. É útil quando você quer mostrar com alguma lógica condicional."
+
+#: ../inc/views/backend/form-elements/custom-elements/custom-texts.php:4 ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:5
+msgid "Untitled Custom Texts"
+msgstr "Textos personalizados sem título"
+
+#: ../inc/views/backend/form-elements/custom-elements/custom-texts.php:7 ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:7
+msgid "<p><strong>Note:</strong>Please double check your <strong>email</strong> and <strong>username</strong> before submitting the form.</p>"
+msgstr "<p><strong>Nota:</strong>Por favor, verifique o seu <strong>email</strong> e <strong>nome de usuário</strong> antes de enviar o formulário.</p>"
+
+#: ../inc/views/backend/form-elements/custom-elements/custom-texts.php:25 ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:23
+msgid "Extra Notes"
+msgstr "Notas extras"
+
+#: ../inc/views/backend/form-elements/custom-elements/custom-texts.php:30 ../inc/views/backend/form-reference-elements/custom-elements/custom-texts.php:28
+msgid "Custom Text"
+msgstr "Texto personalizado"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:4 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:5
+msgid "Untitled File Uploader"
+msgstr "Ainda sem título Carregar Arquivo"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:18 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:19
+msgid "Your Image"
+msgstr "Sua imagem"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:23 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:23 ../inc/views/backend/form-elements/custom-elements/url.php:24 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:33 ../inc/views/backend/form-elements/html-fields/captcha.php:23 ../inc/views/backend/form-elements/html-fields/checkbox.php:25 ../inc/views/backend/form-elements/html-fields/dropdown.php:25
+#: ../inc/views/backend/form-elements/html-fields/email.php:23 ../inc/views/backend/form-elements/html-fields/number.php:23 ../inc/views/backend/form-elements/html-fields/password.php:23 ../inc/views/backend/form-elements/html-fields/radio.php:24 ../inc/views/backend/form-elements/html-fields/textarea.php:23 ../inc/views/backend/form-elements/html-fields/textfield.php:23 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:23
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:23 ../inc/views/backend/form-elements/survey-elements/star-rating.php:23 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:26 ../inc/views/backend/form-elements/ui-elements/datepicker.php:23 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:30 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:35
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:30 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:23 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:23 ../inc/views/backend/form-reference-elements/custom-elements/url.php:23 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:33 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:24
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:25 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:25 ../inc/views/backend/form-reference-elements/html-fields/email.php:23 ../inc/views/backend/form-reference-elements/html-fields/number.php:23 ../inc/views/backend/form-reference-elements/html-fields/password.php:23 ../inc/views/backend/form-reference-elements/html-fields/radio.php:24
+#: ../inc/views/backend/form-reference-elements/html-fields/textarea.php:23 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:23 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:24 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:24 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:24 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:24
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:23 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:29 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:34 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:32
+msgid "Field Notes"
+msgstr "Campo notas"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:24 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:24 ../inc/views/backend/form-elements/custom-elements/url.php:25 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:34 ../inc/views/backend/form-elements/html-fields/captcha.php:24 ../inc/views/backend/form-elements/html-fields/checkbox.php:26 ../inc/views/backend/form-elements/html-fields/dropdown.php:26
+#: ../inc/views/backend/form-elements/html-fields/email.php:24 ../inc/views/backend/form-elements/html-fields/number.php:24 ../inc/views/backend/form-elements/html-fields/password.php:24 ../inc/views/backend/form-elements/html-fields/radio.php:25 ../inc/views/backend/form-elements/html-fields/textarea.php:24 ../inc/views/backend/form-elements/html-fields/textfield.php:24 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:24
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:24 ../inc/views/backend/form-elements/survey-elements/star-rating.php:24 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:27 ../inc/views/backend/form-elements/ui-elements/datepicker.php:24 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:31 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:36
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:31
+msgid "This field is to enable or disable the field notes or information for the field."
+msgstr "Este campo é para ativar ou desativar as notas de campo ou informações para o campo."
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:29 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:29 ../inc/views/backend/form-elements/custom-elements/url.php:30 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:39 ../inc/views/backend/form-elements/html-fields/captcha.php:29 ../inc/views/backend/form-elements/html-fields/checkbox.php:31 ../inc/views/backend/form-elements/html-fields/dropdown.php:31
+#: ../inc/views/backend/form-elements/html-fields/email.php:29 ../inc/views/backend/form-elements/html-fields/number.php:29 ../inc/views/backend/form-elements/html-fields/password.php:29 ../inc/views/backend/form-elements/html-fields/radio.php:30 ../inc/views/backend/form-elements/html-fields/textarea.php:29 ../inc/views/backend/form-elements/html-fields/textfield.php:29 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:29
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:29 ../inc/views/backend/form-elements/survey-elements/star-rating.php:29 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:32 ../inc/views/backend/form-elements/ui-elements/datepicker.php:29 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:36 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:41
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:36 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:26 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:26 ../inc/views/backend/form-reference-elements/custom-elements/url.php:26 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:36 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:27
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:28 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:28 ../inc/views/backend/form-reference-elements/html-fields/email.php:26 ../inc/views/backend/form-reference-elements/html-fields/number.php:26 ../inc/views/backend/form-reference-elements/html-fields/password.php:26 ../inc/views/backend/form-reference-elements/html-fields/radio.php:27
+#: ../inc/views/backend/form-reference-elements/html-fields/textarea.php:26 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:26 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:27 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:27 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:27 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:27
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:26 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:32 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:37 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:35
+msgid "Don't Show"
+msgstr "Não mostrar"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:30 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:30 ../inc/views/backend/form-elements/custom-elements/url.php:31 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:40 ../inc/views/backend/form-elements/html-fields/captcha.php:30 ../inc/views/backend/form-elements/html-fields/checkbox.php:32 ../inc/views/backend/form-elements/html-fields/dropdown.php:32
+#: ../inc/views/backend/form-elements/html-fields/email.php:30 ../inc/views/backend/form-elements/html-fields/number.php:30 ../inc/views/backend/form-elements/html-fields/password.php:30 ../inc/views/backend/form-elements/html-fields/radio.php:31 ../inc/views/backend/form-elements/html-fields/textarea.php:30 ../inc/views/backend/form-elements/html-fields/textfield.php:30 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:30
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:30 ../inc/views/backend/form-elements/survey-elements/star-rating.php:30 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:33 ../inc/views/backend/form-elements/ui-elements/datepicker.php:30 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:37 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:42
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:37 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:27 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:27 ../inc/views/backend/form-reference-elements/custom-elements/url.php:27 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:37 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:28
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:29 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:29 ../inc/views/backend/form-reference-elements/html-fields/email.php:27 ../inc/views/backend/form-reference-elements/html-fields/number.php:27 ../inc/views/backend/form-reference-elements/html-fields/password.php:27 ../inc/views/backend/form-reference-elements/html-fields/radio.php:28
+#: ../inc/views/backend/form-reference-elements/html-fields/textarea.php:27 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:27 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:28 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:28 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:28 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:28
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:27 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:33 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:38 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:36
+msgid "Show as sub label"
+msgstr "Mostrar como sub rótulo"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:31 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:31 ../inc/views/backend/form-elements/custom-elements/url.php:32 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:41 ../inc/views/backend/form-elements/html-fields/captcha.php:31 ../inc/views/backend/form-elements/html-fields/checkbox.php:33 ../inc/views/backend/form-elements/html-fields/dropdown.php:33
+#: ../inc/views/backend/form-elements/html-fields/email.php:31 ../inc/views/backend/form-elements/html-fields/number.php:31 ../inc/views/backend/form-elements/html-fields/password.php:31 ../inc/views/backend/form-elements/html-fields/radio.php:32 ../inc/views/backend/form-elements/html-fields/textarea.php:31 ../inc/views/backend/form-elements/html-fields/textfield.php:31 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:31
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:31 ../inc/views/backend/form-elements/survey-elements/star-rating.php:31 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:34 ../inc/views/backend/form-elements/ui-elements/datepicker.php:31 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:38 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:43
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:38 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:28 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:28 ../inc/views/backend/form-reference-elements/custom-elements/url.php:28 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:38 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:29
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:30 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:30 ../inc/views/backend/form-reference-elements/html-fields/email.php:28 ../inc/views/backend/form-reference-elements/html-fields/number.php:28 ../inc/views/backend/form-reference-elements/html-fields/password.php:28 ../inc/views/backend/form-reference-elements/html-fields/radio.php:29
+#: ../inc/views/backend/form-reference-elements/html-fields/textarea.php:28 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:28 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:29 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:29 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:29 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:29
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:28 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:34 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:39 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:37
+msgid "Show as info icon"
+msgstr "Mostrar ícone de info"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:37 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:37 ../inc/views/backend/form-elements/custom-elements/url.php:38 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:47 ../inc/views/backend/form-elements/html-fields/captcha.php:37 ../inc/views/backend/form-elements/html-fields/checkbox.php:39 ../inc/views/backend/form-elements/html-fields/dropdown.php:39
+#: ../inc/views/backend/form-elements/html-fields/email.php:37 ../inc/views/backend/form-elements/html-fields/number.php:37 ../inc/views/backend/form-elements/html-fields/password.php:37 ../inc/views/backend/form-elements/html-fields/radio.php:38 ../inc/views/backend/form-elements/html-fields/textarea.php:37 ../inc/views/backend/form-elements/html-fields/textfield.php:37 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:37
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:37 ../inc/views/backend/form-elements/survey-elements/star-rating.php:37 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:40 ../inc/views/backend/form-elements/ui-elements/datepicker.php:37 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:44 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:49
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:44 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:33 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:33 ../inc/views/backend/form-reference-elements/custom-elements/url.php:33 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:43 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:34
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:35 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:35 ../inc/views/backend/form-reference-elements/html-fields/email.php:33 ../inc/views/backend/form-reference-elements/html-fields/number.php:33 ../inc/views/backend/form-reference-elements/html-fields/password.php:33 ../inc/views/backend/form-reference-elements/html-fields/radio.php:34
+#: ../inc/views/backend/form-reference-elements/html-fields/textarea.php:33 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:33 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:34 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:34 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:34 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:34
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:33 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:39 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:44 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:42
+msgid "Note Text"
+msgstr "Nota de texto"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:38 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:38 ../inc/views/backend/form-elements/custom-elements/url.php:39 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:48 ../inc/views/backend/form-elements/html-fields/captcha.php:38 ../inc/views/backend/form-elements/html-fields/checkbox.php:40 ../inc/views/backend/form-elements/html-fields/dropdown.php:40
+#: ../inc/views/backend/form-elements/html-fields/email.php:38 ../inc/views/backend/form-elements/html-fields/number.php:38 ../inc/views/backend/form-elements/html-fields/password.php:38 ../inc/views/backend/form-elements/html-fields/radio.php:39 ../inc/views/backend/form-elements/html-fields/textarea.php:38 ../inc/views/backend/form-elements/html-fields/textfield.php:38 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:38
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:38 ../inc/views/backend/form-elements/survey-elements/star-rating.php:38 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:41 ../inc/views/backend/form-elements/ui-elements/datepicker.php:38 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:45 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:50
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:45
+msgid "This field is for field note or field information text."
+msgstr "Este campo é para anotações de campo ou texto informações de campo."
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:41 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:41 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:51 ../inc/views/backend/form-elements/html-fields/captcha.php:41 ../inc/views/backend/form-elements/html-fields/checkbox.php:43 ../inc/views/backend/form-elements/html-fields/dropdown.php:43 ../inc/views/backend/form-elements/html-fields/email.php:41
+#: ../inc/views/backend/form-elements/html-fields/number.php:41 ../inc/views/backend/form-elements/html-fields/password.php:41 ../inc/views/backend/form-elements/html-fields/radio.php:42 ../inc/views/backend/form-elements/html-fields/textarea.php:41 ../inc/views/backend/form-elements/html-fields/textfield.php:18 ../inc/views/backend/form-elements/html-fields/textfield.php:41 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:41
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:41 ../inc/views/backend/form-elements/survey-elements/star-rating.php:41 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:44 ../inc/views/backend/form-elements/ui-elements/datepicker.php:41 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:48 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:53
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:48 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:35 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:35 ../inc/views/backend/form-reference-elements/custom-elements/url.php:35 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:45 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:36
+#: ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:37 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:37 ../inc/views/backend/form-reference-elements/html-fields/email.php:35 ../inc/views/backend/form-reference-elements/html-fields/number.php:35 ../inc/views/backend/form-reference-elements/html-fields/password.php:35 ../inc/views/backend/form-reference-elements/html-fields/radio.php:36
+#: ../inc/views/backend/form-reference-elements/html-fields/textarea.php:35 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:19 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:35 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:36 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:36 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:36
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:36 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:35 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:41 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:46 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:44
+msgid "Your Name"
+msgstr "Seu nome"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:45 ../inc/views/backend/form-elements/custom-elements/google-map-address.php:45 ../inc/views/backend/form-elements/custom-elements/url.php:46 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:55 ../inc/views/backend/form-elements/html-fields/checkbox.php:47 ../inc/views/backend/form-elements/html-fields/dropdown.php:47 ../inc/views/backend/form-elements/html-fields/email.php:45
+#: ../inc/views/backend/form-elements/html-fields/number.php:45 ../inc/views/backend/form-elements/html-fields/password.php:45 ../inc/views/backend/form-elements/html-fields/radio.php:46 ../inc/views/backend/form-elements/html-fields/textarea.php:45 ../inc/views/backend/form-elements/html-fields/textfield.php:45 ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:45 ../inc/views/backend/form-elements/survey-elements/like-dislike.php:45
+#: ../inc/views/backend/form-elements/survey-elements/star-rating.php:45 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:60 ../inc/views/backend/form-elements/ui-elements/datepicker.php:45 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:52 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:69 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:39
+#: ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:39 ../inc/views/backend/form-reference-elements/custom-elements/url.php:39 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:49 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:41 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:41 ../inc/views/backend/form-reference-elements/html-fields/email.php:39
+#: ../inc/views/backend/form-reference-elements/html-fields/number.php:39 ../inc/views/backend/form-reference-elements/html-fields/password.php:39 ../inc/views/backend/form-reference-elements/html-fields/radio.php:40 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:39 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:39 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:40
+#: ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:40 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:40 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:52 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:39 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:45
+#: ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:62
+msgid "Required"
+msgstr "Necessário"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:52 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:45
+msgid "Required Error Message"
+msgstr "Mensagem de erro necessária"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:54 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:47
+msgid "Please upload atleast a single file."
+msgstr "Faça o upload de, pelo menos, um único arquivo."
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:59 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:52
+msgid "Upload Button Label"
+msgstr "Botão Fazer upload"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:60 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:53
+msgid "This is the label of the button.Default label is \"Upload a file\"."
+msgstr "Esta é a etiqueta do botão. etiqueta padrão é \"Fazer upload de um arquivo\"."
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:63 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:56
+msgid "Upload an image"
+msgstr "Carregar uma imagem"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:68 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:61
+msgid "Max Upload Size in MB"
+msgstr "Carregar Tamanho máximo em BM"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:69 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:62
+msgid "This is the maximum size limit of the file uploader.Default file size is 8 MB.Please add only numeric value."
+msgstr "Este é o limite máximo de tamanho do upload de arquivos. tamanho do arquivo padrão é 8 MB. Por favor, adicione apenas o valor numérico."
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:77 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:70
+msgid "Choose file extensions"
+msgstr "extensões"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:78 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:71
+msgid "Please choose the extension that you only want to allow from this file uploader."
+msgstr "Por favor, escolha a extensão que apenas quer permitir a partir deste ficheiro de upload."
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:82 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:75
+msgid "Images"
+msgstr "Imagens"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:90 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:83
+msgid "Documents"
+msgstr "Documentos"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:99 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:92
+msgid "Audio"
+msgstr "Audio"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:107 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:100
+msgid "Video"
+msgstr "Video"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:121 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:114
+msgid "Custom Extension"
+msgstr "Extensão Personalizada"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:122 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:115
+msgid "Please enter the extension that is not available in the above list but you want to allow the users to be able to upload.Use comma for multiple extensions.For example: zip,gzip"
+msgstr "Por favor, indique a extensão que não está disponível na lista acima, mas você deseja permitir que os usuários possam fazer upload. Usar a vírgula para várias extensões. Por exemplo: zip, gzip"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:129 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:122
+msgid "Extension error message"
+msgstr "Extensão mensagem de erro"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:130 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:123
+msgid "This is the error message that will be shown to user when they try to upload the files with unallowed extension."
+msgstr "Esta é a mensagem de erro que será mostrado para o usuário quando eles tentam fazer o upload dos arquivos com extensão não permitido."
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:137 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:130
+msgid "Allow multiple uploads"
+msgstr "Permitir vários carregamentos"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:145 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:137
+msgid "Number of allowed uploads"
+msgstr "Número de uploads permitidos"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:146 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:138
+msgid "This is the number of files that user can upload through the file uploader.Default maximum number is infinite."
+msgstr "Este é o número de arquivos que o usuário pode fazer o upload através do upload de arquivos. número máximo padrão é infinito."
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:154 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:146
+msgid "Upload Limit Error Message"
+msgstr "Mensagem de erro de limite de upload"
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:155 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:147
+msgid "This is the error message that will be shown to user when they try to upload more than the upload limit number."
+msgstr "Esta é a mensagem de erro que será mostrado para o usuário quando eles tentam carregar mais do que o número limite de upload."
+
+#: ../inc/views/backend/form-elements/custom-elements/file-uploader.php:158 ../inc/views/backend/form-reference-elements/custom-elements/file-uploader.php:150
+msgid "Maximum number of files allowed is 2."
+msgstr "Número máximo de arquivos permitido é 2."
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:4 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:5
+msgid "Untitled Google Map Address"
+msgstr "Sem Título mapa do Google Endereço"
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:18 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:19
+msgid "Your Address"
+msgstr "Seu endereço"
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:53 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:47
+msgid "Please select an address"
+msgstr "Por favor seleccione um endereço"
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:58 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:52
+msgid "Map Base Address"
+msgstr "Endereço Mapa Base de Dados"
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:59
+msgid "This is the base address where your map will show in the beginning.Please enter the full address for exact map."
+msgstr "Este é o endereço base onde seu mapa vai mostrar no começo. Por favor, indique o endereço completo para o mapa exato."
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:67 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:61
+msgid "Map Zoom Level"
+msgstr "Mapa Nível de zoom"
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:68 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:62
+msgid "This is zoom level for the map.Please enter the numeric value.Default is 20."
+msgstr "Este é o nível de zoom para ver o mapa. Por favor, indique o valor numérico. O padrão é 20."
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:76 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:70
+msgid "Map Height"
+msgstr "Mapa Altura"
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:76 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:70
+msgid "Please enter the height of the map in px.Default height is 500px"
+msgstr "Por favor insira a altura do mapa em px. altura padrão é de 500px"
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:83 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:77
+msgid "Map Width"
+msgstr "mapa Largura"
+
+#: ../inc/views/backend/form-elements/custom-elements/google-map-address.php:84 ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:78
+msgid "This is the width of the map.Please enter the width in px or %.Default width is 100%"
+msgstr "Esta é a largura do mapa. Por favor, indique a largura em px ou %.largura padrão é 100%"
+
+#: ../inc/views/backend/form-elements/custom-elements/url.php:5
+msgid "Untitled URL"
+msgstr "URL Sem Título"
+
+#: ../inc/views/backend/form-elements/custom-elements/url.php:19 ../inc/views/backend/form-elements/custom-elements/url.php:42 ../inc/views/backend/form-reference-elements/custom-elements/url.php:19
+msgid "Your Website"
+msgstr "Seu Website"
+
+#: ../inc/views/backend/form-elements/custom-elements/url.php:54 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:64 ../inc/views/backend/form-reference-elements/custom-elements/url.php:47 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:57
+msgid "Please fill your URL"
+msgstr "Por favor, preencha o seu URL"
+
+#: ../inc/views/backend/form-elements/custom-elements/url.php:58 ../inc/views/backend/form-elements/html-fields/captcha.php:80 ../inc/views/backend/form-elements/html-fields/email.php:57 ../inc/views/backend/form-elements/html-fields/number.php:69 ../inc/views/backend/form-elements/html-fields/password.php:69 ../inc/views/backend/form-elements/html-fields/textarea.php:81 ../inc/views/backend/form-elements/html-fields/textfield.php:69
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:73 ../inc/views/backend/form-elements/ui-elements/datepicker.php:58 ../inc/views/backend/form-reference-elements/custom-elements/url.php:51 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:75 ../inc/views/backend/form-reference-elements/html-fields/email.php:51 ../inc/views/backend/form-reference-elements/html-fields/number.php:63
+#: ../inc/views/backend/form-reference-elements/html-fields/password.php:63 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:75 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:63 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:64 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:51
+msgid "Placeholder"
+msgstr "Espaço reservado"
+
+#: ../inc/views/backend/form-elements/custom-elements/url.php:60 ../inc/views/backend/form-reference-elements/custom-elements/url.php:53
+msgid "Your website URL here"
+msgstr "O URL do site aqui"
+
+#: ../inc/views/backend/form-elements/custom-elements/url.php:64 ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:89 ../inc/views/backend/form-elements/html-fields/email.php:63 ../inc/views/backend/form-elements/html-fields/hidden.php:22 ../inc/views/backend/form-elements/html-fields/number.php:75 ../inc/views/backend/form-elements/html-fields/textarea.php:87 ../inc/views/backend/form-elements/html-fields/textfield.php:75
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:123 ../inc/views/backend/form-elements/ui-elements/datepicker.php:108 ../inc/views/backend/form-reference-elements/custom-elements/url.php:57 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:83 ../inc/views/backend/form-reference-elements/html-fields/email.php:57 ../inc/views/backend/form-reference-elements/html-fields/hidden.php:23
+#: ../inc/views/backend/form-reference-elements/html-fields/number.php:69 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:81 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:69 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:114 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:101 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:113
+#: ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:131
+msgid "Pre filled value"
+msgstr "valor pré preenchido"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:4 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:5
+msgid "Untitled WYSIWYG Field"
+msgstr "Campo sem título WYSIWYG"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:18 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:19
+msgid "Your Description"
+msgstr "Sua Descrição"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:22 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:23
+msgid "Editor Type"
+msgstr "Tipo de editor"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:25 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:26
+msgid "Rich"
+msgstr "Rico"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:26 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:27
+msgid "Visual Only"
+msgstr "Só Visual"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:27 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:28
+msgid "Text/HTML Only"
+msgstr "Somente o texto / HTML"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:68 ../inc/views/backend/form-elements/html-fields/password.php:51 ../inc/views/backend/form-elements/html-fields/textarea.php:69 ../inc/views/backend/form-elements/html-fields/textfield.php:51 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:62 ../inc/views/backend/form-reference-elements/html-fields/password.php:45 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:63
+#: ../inc/views/backend/form-reference-elements/html-fields/textfield.php:45
+msgid "Max Characters"
+msgstr "Max caracteres"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:74 ../inc/views/backend/form-elements/html-fields/password.php:57 ../inc/views/backend/form-elements/html-fields/textarea.php:75 ../inc/views/backend/form-elements/html-fields/textfield.php:57 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:68 ../inc/views/backend/form-reference-elements/html-fields/password.php:51 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:69
+#: ../inc/views/backend/form-reference-elements/html-fields/textfield.php:51
+msgid "Min Characters"
+msgstr "Min caracteres"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:81 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:75
+msgid "Total Rows"
+msgstr "total de linhas"
+
+#: ../inc/views/backend/form-elements/custom-elements/wysiwyg.php:82 ../inc/views/backend/form-reference-elements/custom-elements/wysiwyg.php:76
+msgid "This is the total rows of the WYSIWYG editor.Default number of rows is 10."
+msgstr "Este é o total de linhas do editor WYSIWYG. número padrão de linhas é de 10."
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:4 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:5
+msgid "Untitled Captcha"
+msgstr "captcha Sem Título"
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:18 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:20
+msgid "Human Check"
+msgstr "Verificação humana"
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:45 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:40
+msgid "Captcha Type"
+msgstr "captcha Tipo"
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:48 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:43
+msgid "Mathematical Captcha"
+msgstr "matemática de captcha"
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:49 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:44
+msgid "Google reCaptcha"
+msgstr "Google reCaptcha"
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:55 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:50
+msgid "Site Key"
+msgstr "Site chave"
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:61 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:56
+msgid "Secret Key"
+msgstr "Chave secreta"
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:68 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:63
+msgid "Google Captcha will only show up in form filled the valid google captcha keys.Please visit <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">here</a> to get your site and secret key."
+msgstr "Google captcha só irá aparecer no formulário preenchido as chaves google CÓDIGO válido. Por favor visite <a href=\"https://www.google.com/recaptcha/admin\" target=\"_blank\">here</a> para obter a chave secreta do seu site"
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:76 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:71
+msgid "Please verify you are human."
+msgstr "Por favor, confirme se é humano."
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:82 ../inc/views/backend/form-reference-elements/html-fields/captcha.php:77 ../inc/views/frontend/fields-switch.php:339 ../inc/views/frontend/fields-switch_1.php:340
+msgid "Enter Sum"
+msgstr "Digite Soma"
+
+#: ../inc/views/backend/form-elements/html-fields/captcha.php:83
+msgid "Note: Placeholder is only for the mathematical type captcha."
+msgstr "Nota: Espaço reservado apenas para o tipo de captcha matemática."
+
+#: ../inc/views/backend/form-elements/html-fields/checkbox.php:4 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:5
+msgid "Untitled Checkbox"
+msgstr "Caixa de seleção Sem Título"
+
+#: ../inc/views/backend/form-elements/html-fields/checkbox.php:6 ../inc/views/backend/form-elements/html-fields/dropdown.php:7 ../inc/views/backend/form-elements/html-fields/radio.php:6 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:7 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:59 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:60 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:8
+#: ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:59 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:60 ../inc/views/backend/form-reference-elements/html-fields/radio.php:7 ../inc/views/backend/form-reference-elements/html-fields/radio.php:58 ../inc/views/backend/form-reference-elements/html-fields/radio.php:59
+msgid "Option 1"
+msgstr "Opção 1"
+
+#: ../inc/views/backend/form-elements/html-fields/checkbox.php:7 ../inc/views/backend/form-elements/html-fields/radio.php:7 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:8 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:65 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:66 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:65
+#: ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:66 ../inc/views/backend/form-reference-elements/html-fields/radio.php:8 ../inc/views/backend/form-reference-elements/html-fields/radio.php:64 ../inc/views/backend/form-reference-elements/html-fields/radio.php:65
+msgid "Option 2"
+msgstr "Opção 2"
+
+#: ../inc/views/backend/form-elements/html-fields/checkbox.php:8 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:9 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:71 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:72 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:71 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:72
+msgid "Option 3"
+msgstr "Opção 3"
+
+#: ../inc/views/backend/form-elements/html-fields/checkbox.php:20 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:21
+msgid "Your Hobbies"
+msgstr "Os seus passatempos"
+
+#: ../inc/views/backend/form-elements/html-fields/checkbox.php:55 ../inc/views/backend/form-elements/html-fields/dropdown.php:55 ../inc/views/backend/form-elements/html-fields/email.php:53 ../inc/views/backend/form-elements/html-fields/radio.php:54 ../inc/views/backend/form-elements/html-fields/textarea.php:53 ../inc/views/backend/form-elements/html-fields/textfield.php:65 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:69
+#: ../inc/views/backend/form-elements/ui-elements/datepicker.php:54 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:49 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:49 ../inc/views/backend/form-reference-elements/html-fields/email.php:47 ../inc/views/backend/form-reference-elements/html-fields/radio.php:48 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:47
+#: ../inc/views/backend/form-reference-elements/html-fields/textfield.php:59 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:60 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:47
+msgid "Please fill your name"
+msgstr "Por favor, preencha seu nome"
+
+#: ../inc/views/backend/form-elements/html-fields/checkbox.php:59 ../inc/views/backend/form-elements/html-fields/dropdown.php:59 ../inc/views/backend/form-elements/html-fields/radio.php:58 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:53 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:53 ../inc/views/backend/form-reference-elements/html-fields/radio.php:52
+msgid "Options"
+msgstr "Opções"
+
+#: ../inc/views/backend/form-elements/html-fields/checkbox.php:61 ../inc/views/backend/form-elements/html-fields/dropdown.php:61 ../inc/views/backend/form-elements/html-fields/radio.php:60 ../inc/views/backend/form-reference-elements/html-fields/checkbox.php:55 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:55 ../inc/views/backend/form-reference-elements/html-fields/radio.php:54
+msgid "Add Option"
+msgstr "Add opções"
+
+#: ../inc/views/backend/form-elements/html-fields/dropdown.php:4 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:5
+msgid "Untitled Dropdown"
+msgstr "Lista suspensa Sem Título"
+
+#: ../inc/views/backend/form-elements/html-fields/dropdown.php:20 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:21
+msgid "Your Country"
+msgstr "Seu País"
+
+#: ../inc/views/backend/form-elements/html-fields/dropdown.php:83 ../inc/views/backend/form-reference-elements/html-fields/dropdown.php:79
+msgid "Multiple"
+msgstr "Multiplo"
+
+#: ../inc/views/backend/form-elements/html-fields/email.php:4 ../inc/views/backend/form-reference-elements/html-fields/email.php:5
+msgid "Untitled Email"
+msgstr "Email sem título"
+
+#: ../inc/views/backend/form-elements/html-fields/email.php:18 ../inc/views/backend/form-reference-elements/html-fields/email.php:19
+msgid "Your Email"
+msgstr "Seu email"
+
+#: ../inc/views/backend/form-elements/html-fields/email.php:59 ../inc/views/backend/form-reference-elements/html-fields/email.php:53
+msgid "Your Email here"
+msgstr "Seu email aqui"
+
+#: ../inc/views/backend/form-elements/html-fields/hidden.php:4 ../inc/views/backend/form-reference-elements/html-fields/hidden.php:5
+msgid "Untitled Hidden"
+msgstr "sem título escondido"
+
+#: ../inc/views/backend/form-elements/html-fields/number.php:4 ../inc/views/backend/form-reference-elements/html-fields/number.php:5
+msgid "Untitled Number"
+msgstr "Número sem título"
+
+#: ../inc/views/backend/form-elements/html-fields/number.php:18 ../inc/views/backend/form-reference-elements/html-fields/number.php:19
+msgid "Your Number"
+msgstr "Seu número"
+
+#: ../inc/views/backend/form-elements/html-fields/number.php:51 ../inc/views/backend/form-reference-elements/html-fields/number.php:45
+msgid "Max Value"
+msgstr "Valor máximo"
+
+#: ../inc/views/backend/form-elements/html-fields/number.php:57 ../inc/views/backend/form-reference-elements/html-fields/number.php:51
+msgid "Min Value"
+msgstr "Valor mínimo"
+
+#: ../inc/views/backend/form-elements/html-fields/number.php:65 ../inc/views/backend/form-elements/html-fields/password.php:65 ../inc/views/backend/form-reference-elements/html-fields/number.php:59 ../inc/views/backend/form-reference-elements/html-fields/password.php:59
+msgid "Please fill number only"
+msgstr "Por favor, preencha apenas números"
+
+#: ../inc/views/backend/form-elements/html-fields/number.php:71
+msgid "Your age here"
+msgstr "Sua idade aqui"
+
+#: ../inc/views/backend/form-elements/html-fields/password.php:4 ../inc/views/backend/form-reference-elements/html-fields/password.php:5
+msgid "Untitled Password"
+msgstr "Senha sem título"
+
+#: ../inc/views/backend/form-elements/html-fields/password.php:18 ../inc/views/backend/form-reference-elements/html-fields/password.php:19
+msgid "Your Password"
+msgstr "Sua senha"
+
+#: ../inc/views/backend/form-elements/html-fields/password.php:71 ../inc/views/backend/form-reference-elements/html-fields/number.php:65 ../inc/views/backend/form-reference-elements/html-fields/password.php:65
+msgid "Your Password here"
+msgstr "Sua senha aqui"
+
+#: ../inc/views/backend/form-elements/html-fields/radio.php:4 ../inc/views/backend/form-reference-elements/html-fields/radio.php:5
+msgid "Untitled Radio"
+msgstr "Rádio sem título"
+
+#: ../inc/views/backend/form-elements/html-fields/radio.php:19 ../inc/views/backend/form-reference-elements/html-fields/radio.php:20
+msgid "Your Gender"
+msgstr "Seu gênero"
+
+#: ../inc/views/backend/form-elements/html-fields/submit.php:5 ../inc/views/backend/form-reference-elements/html-fields/submit.php:6 ../inc/views/frontend/fields-switch.php:320 ../inc/views/frontend/fields-switch_1.php:320
+msgid "Submit"
+msgstr "Enviar"
+
+#: ../inc/views/backend/form-elements/html-fields/submit.php:10 ../inc/views/backend/form-reference-elements/html-fields/submit.php:11
+msgid "If you delete this element then data related with this element will also be deleted. Are you sure you want to delete this element?"
+msgstr "Se você excluir este elemento, em seguida, os dados relacionados com este elemento também serão excluídos. Tem certeza de que deseja excluir este elemento?"
+
+#: ../inc/views/backend/form-elements/html-fields/submit.php:15 ../inc/views/backend/form-reference-elements/html-fields/submit.php:16
+msgid "Submit Button label"
+msgstr "Submeta Rótulo do botão"
+
+#: ../inc/views/backend/form-elements/html-fields/submit.php:21 ../inc/views/backend/form-reference-elements/html-fields/submit.php:22
+msgid "Show Reset Button"
+msgstr "Mostrar botão de reposição"
+
+#: ../inc/views/backend/form-elements/html-fields/submit.php:28 ../inc/views/backend/form-reference-elements/html-fields/submit.php:28
+msgid "Reset Button label"
+msgstr "Rótulo Botão de Reposição"
+
+#: ../inc/views/backend/form-elements/html-fields/textarea.php:4
+msgid "Untitled Textarea"
+msgstr "área de texto sem título"
+
+#: ../inc/views/backend/form-elements/html-fields/textarea.php:18 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:19
+msgid "Your Message"
+msgstr "Sua Mensagem"
+
+#: ../inc/views/backend/form-elements/html-fields/textarea.php:57 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:51
+msgid "Textarea Rows"
+msgstr "linhas área de texto"
+
+#: ../inc/views/backend/form-elements/html-fields/textarea.php:63
+msgid "Textarea Columns"
+msgstr "Colunas área de texto"
+
+#: ../inc/views/backend/form-elements/html-fields/textarea.php:83 ../inc/views/backend/form-reference-elements/html-fields/textarea.php:77
+msgid "Your message here"
+msgstr "Sua mensagem aqui"
+
+#: ../inc/views/backend/form-elements/html-fields/textfield.php:4 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:5
+msgid "Untitled Texfield"
+msgstr "Campo de texto sem título"
+
+#: ../inc/views/backend/form-elements/html-fields/textfield.php:71 ../inc/views/backend/form-reference-elements/html-fields/textfield.php:65
+msgid "Your Name here"
+msgstr "Seu nome aqui"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:4 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:5
+msgid "Untitled Choice Matrix"
+msgstr "Matriz opção sem título"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:18 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:20
+msgid "Ratings"
+msgstr "Avaliações"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:54
+msgid "Please give us rating."
+msgstr "Por favor, nos avalie."
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:58 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:52
+msgid "Matrix Column"
+msgstr "Coluna da matriz"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:72 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:66 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:91
+msgid "Column Heading Labels"
+msgstr "Etiquetas título de coluna"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:75 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:69
+msgid "Heading 1"
+msgstr "Título 1"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:79 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:73
+msgid "Heading 2"
+msgstr "Título 2"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:83 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:77
+msgid "Heading 3"
+msgstr "Título 3"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:87 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:81
+msgid "Heading 4"
+msgstr "Título 4"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:91 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:85
+msgid "Heading 5"
+msgstr "Título 5"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:97
+msgid "Row Heading Labels"
+msgstr "Linha de título Rótulos"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:99 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:93
+msgid "Add Row"
+msgstr "Adicionar linha"
+
+#: ../inc/views/backend/form-elements/survey-elements/choice-matrix.php:108 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:97 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:102
+msgid "Service"
+msgstr "Serviço"
+
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:4
+msgid "Untitled Like Dislike"
+msgstr "sem título Não gosto"
+
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:18 ../inc/views/backend/form-elements/survey-elements/star-rating.php:18 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:20 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:20
+msgid "Our Service"
+msgstr "Nosso serviço"
+
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:54
+msgid "Please like or dislike."
+msgstr "Por favor, gosta ou não gosta."
+
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:58 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:52
+msgid "Like Thumb Value"
+msgstr "Valor polegar como"
+
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:60 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:54
+msgid "Awesome"
+msgstr "Incrível"
+
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:64 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:58
+msgid "Dislike Thumb Value"
+msgstr "Valor Polegar Não gosto"
+
+#: ../inc/views/backend/form-elements/survey-elements/like-dislike.php:66 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:70 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:60 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:63
+msgid "Terrible"
+msgstr "Terrivel"
+
+#: ../inc/views/backend/form-elements/survey-elements/star-rating.php:4 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:5
+msgid "Untitled Star Rating"
+msgstr "sem título Classificação por estrelas"
+
+#: ../inc/views/backend/form-elements/survey-elements/star-rating.php:54 ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:48 ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:48 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:48
+msgid "Please give us a rating."
+msgstr "Por favor, nos dê uma classificação."
+
+#: ../inc/views/backend/form-elements/survey-elements/star-rating.php:58 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:52
+msgid "Stars"
+msgstr "Estrelas"
+
+#: ../inc/views/backend/form-elements/survey-elements/star-rating.php:60 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:54
+msgid "Add Star"
+msgstr "Adcionar Estrelas"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:4 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:5
+msgid "Untitled Datepicker Range"
+msgstr "sem título Faixa Datepicker"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:21 ../inc/views/backend/form-elements/ui-elements/datepicker.php:18 ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:25 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:30 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:20 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:19
+#: ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:25 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:30
+msgid "Booking Date"
+msgstr "Data de reserva"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:48 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:57 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:40 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:50
+msgid "From Label"
+msgstr "Etiqueta desde"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:50 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:8 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:59 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:42 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:8 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:52
+#: ../inc/views/frontend/fields-switch.php:391 ../inc/views/frontend/fields-switch.php:508 ../inc/views/frontend/fields-switch_1.php:395 ../inc/views/frontend/fields-switch_1.php:518
+msgid "From"
+msgstr "Desde"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:54 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:63 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:46 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:56
+msgid "To Label"
+msgstr "Etiqueta até"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:56 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:14 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:65 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:48 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:14 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:58
+#: ../inc/views/frontend/fields-switch.php:395 ../inc/views/frontend/fields-switch.php:608 ../inc/views/frontend/fields-switch_1.php:399 ../inc/views/frontend/fields-switch_1.php:617
+msgid "To"
+msgstr "Até"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:75 ../inc/views/backend/form-elements/ui-elements/datepicker.php:60 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:66 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:53
+msgid "Enter your booking date."
+msgstr "Insira a data de reserva."
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:79 ../inc/views/backend/form-elements/ui-elements/datepicker.php:64 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:70 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:57
+msgid "Date Format Type"
+msgstr "Tipo Formato de data"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:81 ../inc/views/backend/form-elements/ui-elements/datepicker.php:66 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:72 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:59
+msgid "Pre Available Format"
+msgstr "Pré formato disponível"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:82 ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:99 ../inc/views/backend/form-elements/ui-elements/datepicker.php:67 ../inc/views/backend/form-elements/ui-elements/datepicker.php:84 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:73 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:90
+#: ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:60 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:77
+msgid "Custom Format"
+msgstr "formato personalizado"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:86 ../inc/views/backend/form-elements/ui-elements/datepicker.php:71 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:77 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:64
+msgid "Available Format"
+msgstr "Formato disponível"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker-daterange.php:119 ../inc/views/backend/form-elements/ui-elements/datepicker.php:104 ../inc/views/backend/form-reference-elements/ui-elements/datepicker-daterange.php:110 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:97
+msgid "'day' d 'of' MM 'in the year' yy"
+msgstr "'dia' d 'of' MM 'no ano' yy"
+
+#: ../inc/views/backend/form-elements/ui-elements/datepicker.php:4 ../inc/views/backend/form-reference-elements/ui-elements/datepicker.php:5
+msgid "Untitled Datepicker"
+msgstr "Untitled Datepicker"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:5 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:5
+msgid "Untitled Dropdown Date"
+msgstr "Untitled Dropdown Date"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:7 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:9 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:15 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:7 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:69 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:9
+#: ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:15 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:87 ../inc/views/frontend/fields-switch.php:417 ../inc/views/frontend/fields-switch.php:522 ../inc/views/frontend/fields-switch.php:622 ../inc/views/frontend/fields-switch_1.php:424 ../inc/views/frontend/fields-switch_1.php:531 ../inc/views/frontend/fields-switch_1.php:630
+msgid "Year"
+msgstr "Ano"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:8 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:10 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:16 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:8 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:74 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:10
+#: ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:16 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:92 ../inc/views/frontend/fields-switch.php:431 ../inc/views/frontend/fields-switch.php:536 ../inc/views/frontend/fields-switch.php:636 ../inc/views/frontend/fields-switch_1.php:438 ../inc/views/frontend/fields-switch_1.php:545 ../inc/views/frontend/fields-switch_1.php:644
+msgid "Month"
+msgstr "Mês"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:9 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:11 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:17 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:9 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:79 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:11
+#: ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:17 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:97 ../inc/views/frontend/fields-switch.php:445 ../inc/views/frontend/fields-switch.php:550 ../inc/views/frontend/fields-switch.php:650 ../inc/views/frontend/fields-switch_1.php:452 ../inc/views/frontend/fields-switch_1.php:559 ../inc/views/frontend/fields-switch_1.php:658
+msgid "Day"
+msgstr "Dia"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:10 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:10 ../inc/views/frontend/fields-switch.php:467 ../inc/views/frontend/fields-switch.php:572 ../inc/views/frontend/fields-switch.php:672 ../inc/views/frontend/fields-switch_1.php:474 ../inc/views/frontend/fields-switch_1.php:581 ../inc/views/frontend/fields-switch_1.php:680
+msgid "HH"
+msgstr "HH"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:11 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:11 ../inc/views/frontend/fields-switch.php:477 ../inc/views/frontend/fields-switch.php:582 ../inc/views/frontend/fields-switch.php:682 ../inc/views/frontend/fields-switch_1.php:484 ../inc/views/frontend/fields-switch_1.php:591 ../inc/views/frontend/fields-switch_1.php:690
+msgid "MM"
+msgstr "MM"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:12 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:12 ../inc/views/frontend/fields-switch.php:489 ../inc/views/frontend/fields-switch.php:594 ../inc/views/frontend/fields-switch.php:694 ../inc/views/frontend/fields-switch_1.php:496 ../inc/views/frontend/fields-switch_1.php:603 ../inc/views/frontend/fields-switch_1.php:702
+msgid "AM"
+msgstr "AM"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:61 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:78 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:53 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:70
+msgid "Please choose your date."
+msgstr "Por favor, escolha a sua data."
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:65 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:82 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:57 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:75
+msgid "Display Blocks"
+msgstr "Blocos de exibição"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:67 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:84 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:59 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:77
+msgid "Show Date Block"
+msgstr "Mostrar bloco data"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:68 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:85 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:60 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:78
+msgid "Show Time Block"
+msgstr "Mostrar Bloco Hora"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:73 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:90 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:65 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:83
+msgid "Display Fields"
+msgstr "Campos de exibição"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:91 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:108 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:86 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:104
+msgid "Minimum Year"
+msgstr "Ano mínimo"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:92 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:109 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:87 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:105
+msgid "This is the minimum year displayed in the dropdown.Please input in number.For eg. 1950. Default will be 1915."
+msgstr "Este é o ano mínimo exibido na lista suspensa. Por favor coloque em número. Para por exemplo. 1950. padrão será 1915."
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:100 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:117 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:95 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:113
+msgid "Maximum Year"
+msgstr "Ano máximo"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:101 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:118 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:96 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:114
+msgid "This is the maximum year displayed in the dropdown.Please input in number.For eg. 2020. Default will be current year."
+msgstr "Este é o ano máximo exibido na lista suspensa. Por favor, número pino de entrada. Para por exemplo. 2020. Padrão será o ano atual."
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:108 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:125 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:103 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:121
+msgid "Time Format"
+msgstr "Formato da hora"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:111 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:128 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:106 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:124
+msgid "12 Hour Format"
+msgstr "Formato de 12 horas"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-date.php:112 ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:129 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-date.php:107 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:125
+msgid "24 Hour Format"
+msgstr "Formato de 24 horas"
+
+#: ../inc/views/backend/form-elements/ui-elements/dropdown-daterange.php:5 ../inc/views/backend/form-reference-elements/ui-elements/dropdown-daterange.php:5
+msgid "Untitled Date Range"
+msgstr "Intervalo de datas sem título"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:4 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:5
+msgid "Untitled UI Slider"
+msgstr "sem título UI Slider"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:25 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:28
+msgid "Budget"
+msgstr "Orçamento"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:52 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:48
+msgid "Slider Type"
+msgstr "Tipo de slider"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:54 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:50
+msgid "Default"
+msgstr "Padrão"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:55 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:51
+msgid "Rangle Slider"
+msgstr "Faixa de Slider"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:60 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:56
+msgid "Slider Min Value"
+msgstr "Slider Min Valor"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:61 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:57
+msgid "This is the minimum value which slider can select.Default value is 0."
+msgstr "Esta é o valor mínimo que slides pode selecionar. O valor padrão é 0."
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:69 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:65
+msgid "Slider Max Value"
+msgstr "Slider Max Valor"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:70 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:66
+msgid "This is the maximum value which slider can select.Default Value is 100"
+msgstr "Esta é o valor máximo quais slides pode selecionar. O valor padrão é 100"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:78 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:74
+msgid "Slider Step"
+msgstr "Slider etapa"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:79 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:75
+msgid "This is the value which is changed in each slide.Default is 1."
+msgstr "Esta é o valor que é alterado em cada lâmina. O padrão é 1."
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:87 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:83
+msgid "Minimum Required Value"
+msgstr "Valor mínimo exigido"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:88 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:84
+msgid "This is the minimum value that user can select from the slider.Default is your slider minimum value."
+msgstr "Esta é o valor mínimo que o usuário pode selecionar a partir do controle deslizante. O padrão é o valor mínimo slider."
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:96 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:92
+msgid "Maximum Required Value"
+msgstr "Valor Máximo Obrigatório"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:97 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:93
+msgid "This is the maximum value that user can select from the slider.Default Value is slider' maximum value."
+msgstr "Esta é o valor máximo que o usuário pode selecionar a partir do controle deslizante. O valor padrão é o valor máximo 'slider."
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:106 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:102
+msgid "Please choose the budget greater than 0."
+msgstr "Por favor, escolha o orçamento superior a 0."
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:111 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:107
+msgid "Pre selected value"
+msgstr "valor pré-seleccionado"
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:112 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:108
+msgid "Please give single numeric number such as 2,3,20 for slider and 2-20, 3-20 for range slider or leave blank if you don't want any pre selected value to display."
+msgstr "Por favor, indique o número numérico único tais como 2,3,20 para deslizante e 2-20, 3-20 para controle deslizante intervalo ou deixe em branco se você não quiser qualquer valor pré selecionada para exibir."
+
+#: ../inc/views/backend/form-elements/ui-elements/ui-slider.php:115 ../inc/views/backend/form-reference-elements/ui-elements/ui-slider.php:111
+msgid "E.g: 5 or 7-70"
+msgstr "Ex: 5 ou 7-70"
+
+#: ../inc/views/backend/form-reference-elements/custom-elements/agreement-block.php:5
+msgid "Untitled Agreement Block"
+msgstr "sem título concordância Bloco"
+
+#: ../inc/views/backend/form-reference-elements/custom-elements/google-map-address.php:53
+msgid "This is the base address where your map will show in the beginning.Please enter the full address for exact map. "
+msgstr "Este é o endereço base onde seu mapa vai mostrar no começo. Por favor, indique o endereço completo para o mapa exato."
+
+#: ../inc/views/backend/form-reference-elements/custom-elements/url.php:5
+msgid "Untitled URL Field"
+msgstr "O campo URL sem título"
+
+#: ../inc/views/backend/form-reference-elements/html-fields/textarea.php:5
+msgid "Untitled Texarea"
+msgstr "área de texto sem título"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:74
+msgid "Fair"
+msgstr "Justo"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:78
+msgid "Satisfactory"
+msgstr "Satisfatório"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:82 ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:85
+msgid "Good"
+msgstr "Bom"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:86
+msgid "Excellent"
+msgstr "Excelente"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:97
+msgid "Efficiency"
+msgstr "Eficiente"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/choice-matrix.php:102
+msgid "Quality"
+msgstr "Qualidade"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/like-dislike.php:5
+msgid "Untitled Like Dislike Thumb"
+msgstr "sem título Polegar Não gosto"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:59
+msgid "1/5"
+msgstr "1/5"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:70
+msgid "2/5"
+msgstr "2/5"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:74
+msgid "Bad"
+msgstr "Mau"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:81
+msgid "3/5"
+msgstr "3/5"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:92
+msgid "4/5"
+msgstr "4/5"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:96
+msgid "Better"
+msgstr "Superior"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:103
+msgid "5/5"
+msgstr "5/5"
+
+#: ../inc/views/backend/form-reference-elements/survey-elements/star-rating.php:107
+msgid "Best"
+msgstr "Melhor"
+
+#: ../inc/views/frontend/fields-switch.php:322 ../inc/views/frontend/fields-switch_1.php:322
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: ../inc/views/frontend/fields-switch.php:490 ../inc/views/frontend/fields-switch.php:595 ../inc/views/frontend/fields-switch.php:695 ../inc/views/frontend/fields-switch_1.php:497 ../inc/views/frontend/fields-switch_1.php:604 ../inc/views/frontend/fields-switch_1.php:703
+msgid "PM"
+msgstr "PM"
+
+#: ../inc/views/frontend/fields-switch.php:735 ../inc/views/frontend/fields-switch_1.php:742
+msgid "Upload a file"
+msgstr "Enviar um arquivo"
+
+#: ../inc/views/frontend/fields-switch.php:739 ../inc/views/frontend/fields-switch_1.php:746
+msgid "{file} has invalid extension. Only {extensions} are allowed."
+msgstr "{file} tem extensão inválida. Somente {extensions} são permitidas."
+
+#: ../inc/views/frontend/fields-switch.php:742 ../inc/views/frontend/fields-switch_1.php:749
+msgid "Maximum number for file uploads exceeded"
+msgstr "O número máximo de upload de arquivos excedido"
+
+#: ../inc/views/frontend/fields-switch.php:865 ../inc/views/frontend/fields-switch_1.php:883
+msgid "Like"
+msgstr "Gostar"
+
+#: ../inc/views/frontend/fields-switch.php:866 ../inc/views/frontend/fields-switch_1.php:884
+msgid "Dislike"
+msgstr "Não gostar"
+
+#: ../inc/views/frontend/fields-switch.php:883 ../inc/views/frontend/fields-switch_1.php:904
+msgid "Heading"
+msgstr "título"
+
+#: ../inc/views/frontend/front-form.php:98
+msgid "No"
+msgstr "Não"
+
+#: ../inc/views/frontend/preview-form.php:3
+msgid "Form Preview"
+msgstr "formulário de Pré-visualização"
+
+#: ../inc/views/frontend/preview-form.php:14
+msgid "Preview Mode"
+msgstr "Modo de pré-visualização"
+
+#: ../inc/views/frontend/preview-form.php:16
+msgid "This is just the basic preview and it may look different when used in frontend as per your theme's styles."
+msgstr "Esta é apenas a visualização básica e pode parecer diferente quando usado em frontend como por estilos de seu tema."

@@ -1,0 +1,108 @@
+.c-hover,
+.wiloke-sharing-post-social a:hover,
+.accordion .accordion-header:hover,
+.accordion .accordion-header.ui-accordion-header-active,
+.tabs .ui-tabs-nav li a:hover,
+.tabs .ui-tabs-nav li.ui-tabs-active a,
+#header .nav-menu .icon-share:hover,
+#header .nav-menu .icon-search:hover,
+.owl-prev:hover,
+.owl-next:hover,
+#header .nav-menu .menu li:hover > a,
+#header .nav-menu .menu li.current-menu-item > a,
+#header .nav-menu .menu li.current-menu-parent > a,
+#header .nav-menu .menu li .sub-menu li:hover > a,
+#header .nav-menu .menu li .sub-menu li.current-menu-item > a,
+#header .nav-menu .menu li .sub-menu li.current-menu-parent > a,
+#header .nav-menu .menu-mobile li:hover > a,
+#header .nav-menu .menu-mobile li.current-menu-parent > a,
+#header .nav-menu .menu-mobile li.current-menu-item > a,
+.post .post-media .post-link a:hover .entry-title,
+.post .post-media .post-link a:hover span,
+.post .post-media .post-link a:hover .icon,
+.post .post-entry .entry-title:hover a,
+.post .post-entry .entry-meta a:hover,
+.post .post-entry .entry-meta .post-categories li a:hover,
+.comment-navigation .nav-links,
+.comment-navigation .nav-links a:hover,
+.related-gird .related-post h2:hover,
+.portfolio-filter .ul-filter li a:hover,
+.portfolio-filter .ul-filter li.active a,
+.portfolio-item .heart i,
+.portfolio-info ul li a:hover,
+.portfolio-isotop.caption-bottom .portfolio-item:hover h2,
+.portfolio-isotop.caption-bottom .portfolio-item:hover .arrow,
+.team-item .social-user a:hover,
+.twitter-slide .icon,
+.commentlist .comment .comment-body .comment-edit-reply a:hover,
+.widget ul li a:hover,
+.widget .calendar_wrap table a,
+.widget .tagcloud a:hover,
+.widget_categories ul li a:hover,
+.widget_archive ul li a:hover,
+.widget_pages ul li a:hover,
+.skill .percent,
+.widget-list a:hover,
+.widget_meta ul li a:hover,
+.widget_nav_menu ul li a:hover,
+#footer .widget_footer_left ul li a:hover {
+    color: #363bf6;
+}
+
+.bg-hover,
+.progress,
+.preloader .progressFull,
+.bg-darkgold,
+.popup-search .close-popup:hover:before,
+.popup-search .close-popup:hover:after,
+.popup-social .close-popup:hover:before,
+.popup-social .close-popup:hover:after,
+.nav-portfolio .center-block:hover,
+.pricing-item.highlights .price,
+.widget_pi_follow .pi-social-square a:hover,
+.portfolio-info .btn,
+.pricing-item.highlights .button:hover,
+#footer .scroll-top:hover {
+    background-color: #363bf6;
+}
+
+.b-color-hover,
+.post .post-media .post-link a:hover .icon,
+.portfolio-isotop.caption-bottom .portfolio-item:hover .arrow,
+.twitter-slide .icon,
+.widget_pi_follow .pi-social-square a:hover,
+#footer .scroll-top:hover {
+    border-color: #363bf6;
+}
+.portfolio-item .caption .arrow,
+.icon-box .icon,
+.blog-related h4:after,
+.blog-related h4:before,
+.popup-search,
+.popup-social,
+.page-header .divider,
+.related-project .related-project-title:after,
+.related-project .related-project-title:before,
+.heading span,
+#footer .widget .widget-title:before,
+#footer .widget .widget-title:after {
+    background: #363bf6;
+}
+.single-portfolio .page-header .page-title,
+.small-devices .nav-portfolio .nav-left span,
+.small-devices .nav-portfolio .nav-right span,
+.nav-portfolio .nav-left:hover span,
+.nav-portfolio .nav-right:hover span,
+.blog-related h4,
+.heading h2,
+.related-project .related-project-title,
+#footer .widget .widget-title {
+    color: #363bf6;
+}
+.portfolio-isotop.caption-middle .caption:before,
+.portfolio-filter .toggle-filter,
+.post .post-quote:before,
+.team-item .hr,
+.skill .processbar .processbar-percent {
+    background: #363bf6;
+}

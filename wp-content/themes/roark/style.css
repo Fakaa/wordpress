@@ -1,0 +1,38 @@
+/*
+Theme Name: Roark
+Theme URI: http://roark.next-theme.com/
+Author: wiloke
+Author URI: https://themeforest.net/user/next-theme
+Description: Roark - Minimal Portfolio WordPress Theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+Text Domain: roark
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+.bg-top{
+    background-position: top center;
+}
+
+.bg-bottom{
+    background-position: bottom center;
+}
+
+.bg-center{
+    background-position: center center;
+}
+
+.entry-title, .page-title{
+	overflow: hidden;
+}
+
+.commentlist .comment.pingback,
+.commentlist .comment.trackpack{
+	padding-left: 0px;
+}
+.page-header {
+    margin: -249px;
+    border-width: 0;
+    padding-top: 40px;
+    padding-bottom: 0;
+}
